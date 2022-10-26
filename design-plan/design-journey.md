@@ -48,7 +48,7 @@ Major Pages:
 
 4. Who do you want to visit your site? Who do you believe is your website's intended audience?
 
-    We want prospective Judo club members who are interested in joining the club to visit our site. thus, our website's intended audience is prospective Judo Club members.
+
 
 5. When visiting your site, what actions do you want your visitors to take?
 
@@ -64,12 +64,10 @@ Major Pages:
 
 8. What are your three favorite competitors or similar organizations' websites? Why?
 
-    Our three favorite competitors or similar organizations are Pedro's Judo Center, United States Judo Association and Kodokan Judo. Because the website does a good job on showing judo culture and engaging with the community
-
+     Our three favorite competitors or similar organizations are Pedro's Judo Center, United States Judo Association and Kodokan Judo. Because the website does a good job on showing judo culture and engaging with the community
     - ![Pedros](https://pedrosjudo.com/)
     - ![USJA](https://www.usja.net/)
     - ![Kodokan](http://kodokanjudoinstitute.org/en/doctrine/)
-
 ### First Client Meeting Minutes/Notes (Milestone 1)
 > Include your notes/minutes from your first meeting with your client.
 
