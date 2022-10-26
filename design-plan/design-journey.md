@@ -50,7 +50,6 @@ Major Pages:
 
     We want prospective Judo club members who are interested in joining the club to visit our site. Thus, our website's intended audience is prospective Judo Club members.
 
-
 5. When visiting your site, what actions do you want your visitors to take?
 
     Users can browse through infomation of the club such as practice, member bios and blog posts, and leaving emails and perspective intention of joining the club.
@@ -66,6 +65,7 @@ Major Pages:
 8. What are your three favorite competitors or similar organizations' websites? Why?
 
      Our three favorite competitors or similar organizations are Pedro's Judo Center, United States Judo Association and Kodokan Judo. Because the website does a good job on showing judo culture and engaging with the community
+
     - ![Pedros](https://pedrosjudo.com/)
     - ![USJA](https://www.usja.net/)
     - ![Kodokan](http://kodokanjudoinstitute.org/en/doctrine/)
@@ -104,20 +104,27 @@ TODO: tell us about the website you intend to design and build
 > Explain why the website you will create for your client isn't too small and isn't too big.
 > Explain why you think it's the right size for this project.
 
-TODO: explain how your proposed website is the right "size" for this project: not too big, not too small.
-
+- As we have four team members we will shoot to complete the four sample pages we took from the initial website (home, about, practice, and email). We will do this by separating the current home page into a home page and an about/fax page. There are also several other pages which are highly interactive and beyond the scope of this assignment (a blog page and contact us PHP page). There is some content from these pages that can be added to our four pages, however. The four pages follow closely the original site and so it is the perfect size for our client. As it is the right size for our client it is good for this project. Furthermore we will include HTML, CSS, and JavaScript files to follow the criteria of the project.
 
 ## Plan/Schedule (Milestone 1)
 > Make a plan of when you will complete all parts of this assignment.
 > This plan is for your team. There is no required format. Format it so that it works for you!
 > Your plan should include when you will interview users and analyze their goals.
-> Your plan should also include how and when you will assemble/create the sit's content.
+> Your plan should also include how and when you will assemble/create the site's content.
 > **Tip:** Your team should plan to work ahead. This project really isn't feasible to complete the night before a deadline.
 
-TODO: your team's plan
+Milestone 2 is due November 16th. It includes the drafts for the website's design and content placement. This closely copies our other projects initial milestones. Furthermore, we will begin our HTML and, time permitting, CSS.
 
+For next week, we will have a design plan including a card sort and general layout design for both narrow and wide screens. Furthermore, the interview will be completed by then. By completing all design aspects and pre-draft aspects by next week, we will have an entire week to code our website. Furthermore, time permitting, we will add further design to our website by adding CSS.
 
-# ##########################################################################################################################################
+As our final submission is the site that will be interactive, given our website is mostly done and our draft is done well we can spend time working on our interactivity and finishing the website for our final submission.
+
+So, in conclusion:
+
+By 11/4 we will have the design draft done as well as the interviews and goal analysis.
+
+By 11/11, we will have our HTML and CSS draft done and our site assembled by each focusing on a single page (although ensuring the theme stays consistent across the site), and we will continue editing them until the final deadline on 11/16, to set us up well for solely working on interactivity and design updates for the final submission on 11/30.
+
 ## Understanding Users (Milestone 2)
 
 **Make the case for your decisions using concepts from class, as well as other design principles, theories, examples, and cases from outside of class.**
