@@ -48,8 +48,7 @@ Major Pages:
 
 4. Who do you want to visit your site? Who do you believe is your website's intended audience?
 
-    We want prospective Judo club members who are interested in joining the club to visit our site. Thus, our website's intended audience is prospective Judo Club members.
-
+    We want prospective Judo club members who are interested in joining the club to visit our site. thus, our website's intended audience is prospective Judo Club members.
 
 5. When visiting your site, what actions do you want your visitors to take?
 
@@ -66,10 +65,6 @@ Major Pages:
 8. What are your three favorite competitors or similar organizations' websites? Why?
 
      Our three favorite competitors or similar organizations are Pedro's Judo Center, United States Judo Association and Kodokan Judo. Because the website does a good job on showing judo culture and engaging with the community
-    - ![Pedros](https://pedrosjudo.com/)
-    - ![USJA](https://www.usja.net/)
-    - ![Kodokan](http://kodokanjudoinstitute.org/en/doctrine/)
-
 
 ### First Client Meeting Minutes/Notes (Milestone 1)
 > Include your notes/minutes from your first meeting with your client.
@@ -84,6 +79,7 @@ TODO: notes/minutes from your first client meeting
 > If you are redesigning an existing site, tell us how you plan to update the site in a significant way that meets the project's requirements.
 
 TODO: tell us about the website you intend to design and build
+
 
 
 ### Client Goals (Milestone 1)
