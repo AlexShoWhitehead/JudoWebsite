@@ -17,7 +17,22 @@ Be clear and concise in your writing. Bullets points are encouraged.
 > Tell us about your client. Who is your client?
 > Explain why your client meets the client rules in the project requirements.
 
-TODO: who is your client?
+We were between a film group which is run by a friend of one of the group members and a sports club run by a friend of a different group member.Ultimately, we chose our client as the Cornell University Judo Club. Furthermore, the client is not a member of our group although one does know them.
+
+The client is an on campus organization that does not have a current easily usable website. The website was last updated over 10 years ago and is not interactive. Our goal is to redesign the existing site, however rather than maintain the previous code we are rebuilding it from scratch but making sure the new site contains all of the content from the previous site.
+
+Original Site URL: [Judo Website](https://cornelljudo.wordpress.com/)
+
+Major Pages:
+
+- [Main page](judo-main-page.png)
+- ![About page](judo-about-page.png)
+- ![Practice Page](judo-practice-page.png)
+- ![Email Page](judo-email-page.png)
+
+
+Screenshots of all major pages that you plan to change.
+
 
 
 ### Client Questionnaire (Milestone 1)
@@ -102,6 +117,7 @@ TODO: explain how your proposed website is the right "size" for this project: no
 TODO: your team's plan
 
 
+# ##########################################################################################################################################
 ## Understanding Users (Milestone 2)
 
 **Make the case for your decisions using concepts from class, as well as other design principles, theories, examples, and cases from outside of class.**
