@@ -48,6 +48,7 @@ Major Pages:
 
 4. Who do you want to visit your site? Who do you believe is your website's intended audience?
 
+    We want prospective Judo club members who are interested in joining the club to visit our site. Thus, our website's intended audience is prospective Judo Club members.
 
 
 5. When visiting your site, what actions do you want your visitors to take?
@@ -68,6 +69,8 @@ Major Pages:
     - ![Pedros](https://pedrosjudo.com/)
     - ![USJA](https://www.usja.net/)
     - ![Kodokan](http://kodokanjudoinstitute.org/en/doctrine/)
+
+
 ### First Client Meeting Minutes/Notes (Milestone 1)
 > Include your notes/minutes from your first meeting with your client.
 
