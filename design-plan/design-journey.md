@@ -47,23 +47,22 @@ Major Pages:
     The design and structure of the current website is outdated and difficult to navigate; the information in the website is not very pleasant to read or user-friendly.
 
 4. Who do you want to visit your site? Who do you believe is your website's intended audience?
-    We want prospective Judo club members who are interested in joining the club to visit our site. Thus, we believe our website's intended audience is prospective Judo Club members.
 
     We want prospective Judo club members who are interested in joining the club to visit our site. thus, our website's intended audience is prospective Judo Club members.
 
-1. When visiting your site, what actions do you want your visitors to take?
+5. When visiting your site, what actions do you want your visitors to take?
 
     Users can browse through infomation of the club such as practice, member bios and blog posts, and leaving emails and perspective intention of joining the club.
 
-2. What are your goals for this site?
+6. What are your goals for this site?
 
     The website's goal is to introduce the Cornell Judo Club's info to the audience, inspire new members to join, record daily activities of the club, and share Judo culture to the audience.
 
-3. Is there a "feel" that you want for your site? Are there colors or imagery that you have in mind?
+7. Is there a "feel" that you want for your site? Are there colors or imagery that you have in mind?
 
     The color palette would be mainly blue and white, the whole feeling would be more modern.
 
-4. What are your three favorite competitors or similar organizations' websites? Why?
+8. What are your three favorite competitors or similar organizations' websites? Why?
 
      Our three favorite competitors or similar organizations are Pedro's Judo Center, United States Judo Association and Kodokan Judo. Because the website does a good job on showing judo culture and engaging with the community
 
