@@ -52,7 +52,7 @@ Major Pages:
 
 5. When visiting your site, what actions do you want your visitors to take?
 
-    Users can browse through infomation of the club such as practice, member bios and blog posts, and leaving emails and perspective intention of joining the club.
+    Users can browse through infomation of the club such as practice, member bios, and leaving emails and perspective intention of joining the club.
 
 6. What are your goals for this site?
 
