@@ -17,7 +17,7 @@ Be clear and concise in your writing. Bullets points are encouraged.
 > Tell us about your client. Who is your client?
 > Explain why your client meets the client rules in the project requirements.
 
-We were between a film group which is run by a friend of one of the group members and a sports club run by a friend of a different group member.Ultimately, we chose our client as the Cornell University Judo Club. Furthermore, the client is not a member of our group although one does know them.
+We were between a film group which is run by a friend of one of the group members and a sports club run by a friend of a different group member. Ultimately, we chose our client as the Cornell University Judo Club. Furthermore, the client is not a member of our group although one does know them.
 
 The client is an on campus organization that does not have a current easily usable website. The website was last updated over 10 years ago and is not interactive. Our goal is to redesign the existing site, however rather than maintain the previous code we are rebuilding it from scratch but making sure the new site contains all of the content from the previous site.
 
@@ -30,22 +30,17 @@ Major Pages:
 - ![Practice Page](judo-practice-page.png)
 - ![Email Page](judo-email-page.png)
 
-
-Screenshots of all major pages that you plan to change.
-
-
-
 ### Client Questionnaire (Milestone 1)
 > Develop a client questionnaire to learn more about your client and their goals.
 > You may use the questionnaire below, you may modify the questionnaire below, or you may create your own.
 
 1. Describe your organization and its purpose.
 
-    TODO: take notes of your client's response
+    Teach Judo to Cornell students and Ithaca residents of all skill levels and ages. The only gym between Binghamton and Syracuse.
 
 2. What makes your organization and its services special or unique?
 
-    TODO: take notes of your client's response
+    It is the only gym between Binghamton and Syracuse. It has club members from around the world due to it being related to Cornell University. One of the oldest clubs in the nation dating back over 40 years.
 
 3. Why are you looking for a new website or updating your existing site?
 
