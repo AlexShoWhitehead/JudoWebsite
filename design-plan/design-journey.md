@@ -47,7 +47,7 @@ Major Pages:
     The design and structure of the current website is outdated and difficult to navigate; the information in the website is not very pleasant to read or user-friendly.
 
 4. Who do you want to visit your site? Who do you believe is your website's intended audience?
-    We want prospective Judo club members who are interested in joining the club to visit our site. Thus, our website's intended audience is prospective Judo Club members.
+    We want prospective Judo club members who are interested in joining the club to visit our site. Thus, we believe our website's intended audience is prospective Judo Club members.
 
 5. When visiting your site, what actions do you want your visitors to take?
 
