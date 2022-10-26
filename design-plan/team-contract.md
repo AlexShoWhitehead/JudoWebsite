@@ -26,6 +26,7 @@ Your team contract should probably include these elements. Feel free to remove o
     - Give everyone the opportunity for equal participation
     - Be open to new approaches and listen to new ideas
     - Avoid placing blame when things go wrong
+
 3. How will we communicate and work with our client?
 
     The client knows a member of the group well, so:
@@ -48,7 +49,9 @@ Your team contract should probably include these elements. Feel free to remove o
     - Wide and Narrow designer
       - Create the wide and narrow designs
     - Interactivity Organizer
+      - Create interactive design of the website (button, cookie banner, etc)
     - Team organizer
+      - Communicate with team members to schdule meeting days, make task distribution, etc.
 
 
 5. How will we hold ourselves and one another accountable? What (exactly) will we say to a team member who appears not to be contributing equally? To a team member who fails to deliver what was promised?
