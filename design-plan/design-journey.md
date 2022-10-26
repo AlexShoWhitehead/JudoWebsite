@@ -49,11 +49,10 @@ Screenshots of all major pages that you plan to change.
 
 3. Why are you looking for a new website or updating your existing site?
 
-    TODO: take notes of your client's response
+    The design and structure of the current website is outdated and difficult to navigate; the information in the website is not very pleasant to read or user-friendly.
 
 4. Who do you want to visit your site? Who do you believe is your website's intended audience?
-
-    TODO: take notes of your client's response
+    We want prospective Judo club members who are interested in joining the club to visit our site. thus, our website's intended audience is prospective Judo Club members.
 
 5. When visiting your site, what actions do you want your visitors to take?
 
