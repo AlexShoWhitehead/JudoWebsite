@@ -26,6 +26,7 @@ Your team contract should probably include these elements. Feel free to remove o
     - Give everyone the opportunity for equal participation
     - Be open to new approaches and listen to new ideas
     - Avoid placing blame when things go wrong
+    - When someone submits they MUST SEND A SCREEN SHOT TO THE GROUP CHAT
 
 3. How will we communicate and work with our client?
 

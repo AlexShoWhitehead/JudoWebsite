@@ -25,7 +25,7 @@ Original Site URL: [Judo Website](https://cornelljudo.wordpress.com/)
 
 Major Pages:
 
-- [Main page](judo-main-page.png)
+- ![Main page](judo-main-page.png)
 - ![About page](judo-about-page.png)
 - ![Practice Page](judo-practice-page.png)
 - ![Email Page](judo-email-page.png)
@@ -36,23 +36,43 @@ Major Pages:
 
 1. Describe your organization and its purpose.
 
-    Teach Judo to Cornell students and Ithaca residents of all skill levels and ages. The only gym between Binghamton and Syracuse.
-
 2. What makes your organization and its services special or unique?
-
-    It is the only gym between Binghamton and Syracuse. It has club members from around the world due to it being related to Cornell University. One of the oldest clubs in the nation dating back over 40 years.
 
 3. Why are you looking for a new website or updating your existing site?
 
-    The design and structure of the current website is outdated and difficult to navigate; the information in the website is not very pleasant to read or user-friendly.
-
 4. Who do you want to visit your site? Who do you believe is your website's intended audience?
-
-    We want prospective Judo club members who are interested in joining the club to visit our site. Thus, our website's intended audience is prospective Judo Club members.
 
 5. When visiting your site, what actions do you want your visitors to take?
 
-    Users can browse through infomation of the club such as practice, member bios, and leaving emails and perspective intention of joining the club.
+6. What are your goals for this site?
+
+7. Is there a "feel" that you want for your site? Are there colors or imagery that you have in mind?
+
+8. What are your three favorite competitors or similar organizations' websites? Why?
+
+
+### First Client Meeting Minutes/Notes (Milestone 1)
+> Include your notes/minutes from your first meeting with your client.
+
+1. Describe your organization and its purpose.
+
+    To do this we examined the previous website together with the client. Using the information from the client and the previous website we decided that the idea of the club has not changed since the previous website was created. As such, the purpose is to teach Judo to Cornell students and Ithaca residents of all skill levels and ages.
+
+2. What makes your organization and its services special or unique?
+
+    It is the only gym between Binghamton and Syracuse. It has club members from around the world due to it being related to Cornell University. Some current members are from Ithaca, Germany, Korea, and Hawaii. It is one of the oldest Judo clubs in the nation dating back over 40 years.
+
+3. Why are you looking for a new website or updating your existing site?
+
+    The design and structure of the current website is outdated and difficult to navigate; the information in the website is not very pleasant to read or user-friendly. The client wants the design to be more modern and the important content to be more available.
+
+4. Who do you want to visit your site? Who do you believe is your website's intended audience?
+
+    The client wants prospective Judo club members who are interested in joining the club to visit our site. Thus, our website's intended audience is prospective Judo Club members.
+
+5. When visiting your site, what actions do you want your visitors to take?
+
+    Users can browse through infomation of the club such as practice, member bios, and sending emails and perspective intention of joining the club. The client mainly wants people to be able to find out current information about the club (for example shirt sales or club practice cancellations or times).
 
 6. What are your goals for this site?
 
@@ -60,21 +80,15 @@ Major Pages:
 
 7. Is there a "feel" that you want for your site? Are there colors or imagery that you have in mind?
 
-    The color palette would be mainly blue and white, the whole feeling would be more modern.
+    The color palette would be mainly blue and white, the whole feeling would be more modern. This should match the themes as featured in some of the websites below that we looked up together.
 
 8. What are your three favorite competitors or similar organizations' websites? Why?
 
-     Our three favorite competitors or similar organizations are Pedro's Judo Center, United States Judo Association and Kodokan Judo. Because the website does a good job on showing judo culture and engaging with the community
+    The three favorite competitors or similar organizations are Pedro's Judo Center, United States Judo Association and Kodokan Judo. Because the website does a good job on showing judo culture and engaging with the community
 
     - ![Pedros](https://pedrosjudo.com/)
     - ![USJA](https://www.usja.net/)
     - ![Kodokan](http://kodokanjudoinstitute.org/en/doctrine/)
-
-
-### First Client Meeting Minutes/Notes (Milestone 1)
-> Include your notes/minutes from your first meeting with your client.
-
-TODO: notes/minutes from your first client meeting
 
 
 ### Client Website (Milestone 1)
@@ -83,19 +97,27 @@ TODO: notes/minutes from your first client meeting
 > Note: **If you are redesigning an existing website, give us the current URL and some screenshots of the current site.** (FireFox makes it easy to take a full screenshot of a page from the context menu (right click).)
 > If you are redesigning an existing site, tell us how you plan to update the site in a significant way that meets the project's requirements.
 
-TODO: tell us about the website you intend to design and build
+For our website, we want to design a site that fulfils the wants of the client. As such, our content will be our number one priority as well as its aesthetics. The client wants a website that mimics other judo sites as well so we will take a modern blue and white look into account. The Pedro site uses red accents so that is something we can incorporate as well.  The purpose of the site is to spread important information to the audience and bring them into the club. It is also to let potential new members reach out to the club to join. Due to these changes, rather than update a pre existing site, we opted to start from scratch. The images of the site can be seen here.
 
+Original Site URL: [Judo Website](https://cornelljudo.wordpress.com/)
 
+- ![Main page](judo-main-page.png)
+- ![About page](judo-about-page.png)
+- ![Practice Page](judo-practice-page.png)
+- ![Email Page](judo-email-page.png)
+
+For our site we plan to use the same original content with some new images provided by the client. We will make the site more modern and the content more accessible. We will also include an important info/ updates section.
 
 ### Client Goals (Milestone 1)
 > Identify your client's goals for the website.
 > What kind of website do they want? What are their goals for the site?
 > There is no required number of goals. You need as many goals as necessary to reflect your client's desires.
 
-- TODO: Goal 1
-- TODO: Goal 2
-- TODO: Goal 3
-- ...
+- Modernize existing website
+- Draw in potential new members
+- Give updates to existing and new members
+- Allow new members to contact the club
+- Have club information for all members
 
 
 ### Client Website Scope (Milestone 1)
