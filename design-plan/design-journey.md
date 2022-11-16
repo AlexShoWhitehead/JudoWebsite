@@ -504,6 +504,30 @@ Document your site's layout.
 > Provide an explanation for each sketch explaining the idea and the design patterns you are leveraging.
 
 TODO: layout exploration sketches + explanation
+![index html wide sketch1](index-wide-1.jpg)
+![team html wide sketch1](team-wide-1.jpg)
+![judo html wide sketch1](judo-wide-1.jpg)
+![contact html wide sketch1](contact-wide-1.jpg)
+
+![index html wide sketch2](index-wide-2.jpg)
+![team html wide sketch2](team-wide-2.jpg)
+![judo html wide sketch2](judo-wide-2.jpg)
+![contact html wide sketch2](contact-wide-2.jpg)
+
+
+
+
+![index html narrow sketch1](home-narrow-1.PNG)
+![team html narrow sketch1](team-narrow-1.PNG)
+![judo html narrow sketch1](about-narrow-1.PNG)
+![contact html narrow sketch1](contact-narrow-1.PNG)
+
+![index html narrow sketch2](home-narrow-2.PNG)
+![team html narrow sketch2](team-narrow-2.PNG)
+![judo html narrow sketch2](about-narrow-2.PNG)
+![contact html narrow sketch2](contact-narrow-2.PNG)
+
+
 
 
 ### Final Design (Milestone 2)
@@ -515,12 +539,18 @@ TODO: layout exploration sketches + explanation
 
 **Narrow (Mobile) Design:**
 
-TODO: narrow sketches and explanation
+![index html narrow sketch2](home-narrow-2.PNG)
+![team html narrow sketch2](team-narrow-2.PNG)
+![judo html narrow sketch2](about-narrow-2.PNG)
+![contact html narrow sketch2](contact-narrow-2.PNG)
 
 
 **Wide (Wide) Design:**
 
-TODO: wide sketches and explanation
+![index html wide sketch2](index-wide-2.jpg)
+![team html wide sketch2](team-wide-2.jpg)
+![judo html wide sketch2](judo-wide-2.jpg)
+![contact html wide sketch2](contact-wide-2.jpg)
 
 
 ### Design Rationale (Milestone 2)
