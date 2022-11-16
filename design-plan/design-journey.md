@@ -517,6 +517,18 @@ TODO: layout exploration sketches + explanation
 
 
 
+![index html narrow sketch1](home-narrow-1.PNG)
+![team html narrow sketch1](team-narrow-1.PNG)
+![judo html narrow sketch1](about-narrow-1.PNG)
+![contact html narrow sketch1](contact-narrow-1.PNG)
+
+![index html narrow sketch2](home-narrow-2.PNG)
+![team html narrow sketch2](team-narrow-2.PNG)
+![judo html narrow sketch2](about-narrow-2.PNG)
+![contact html narrow sketch2](contact-narrow-2.PNG)
+
+
+
 
 ### Final Design (Milestone 2)
 > Include the final sketches for each of your pages.
@@ -527,7 +539,10 @@ TODO: layout exploration sketches + explanation
 
 **Narrow (Mobile) Design:**
 
-TODO: narrow sketches and explanation
+![index html narrow sketch2](home-narrow-2.PNG)
+![team html narrow sketch2](team-narrow-2.PNG)
+![judo html narrow sketch2](about-narrow-2.PNG)
+![contact html narrow sketch2](contact-narrow-2.PNG)
 
 
 **Wide (Wide) Design:**
