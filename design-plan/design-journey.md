@@ -394,7 +394,7 @@ Include two screenshots of the home page for each site: narrow and wide.
 > Review the website you identified above. (1 paragraph)
 > In your review, include a discussion common design patterns and interactivity in the site.
 
-The website appears to be a single page that has content load in as one scrolls. The wide screen has a menu at the top that drops down when the user hovers over it displaying further options. At the top is the name, and location and contact information. There is a background image with solid color blocks with text on it to contrast the text and the background image. This website does a good job of sorting the content and making it clear when there are divides. This is because the site uses a menu with a dropdown menu. Furthermore, as the user scrolls, the content gradually fades into existance so the user knows it is looking at new content. For the narrow page the page now has a hamburger menu as the menu. The content is separated into square sections as the user scrolls. The content is the same, howeve, but it makes the content easier to understand by separating it into sections.
+The website appears to be a single page that has content load in as one scrolls. The wide screen has a menu at the top that drops down when the user hovers over it displaying further options. At the top is the name, and location and contact information. There is a background image with solid color blocks with text on it to contrast the text and the background image. This website does a good job of sorting the content and making it clear when there are divides. This is because the site uses a menu with a dropdown menu. Furthermore, as the user scrolls, the content gradually fades into existance so the user knows it is looking at new content. For the narrow page the page now has a hamburger menu as the menu. The content is separated into square sections as the user scrolls. The content is the same, however, but it makes the content easier to understand by separating it into sections.
 
 ### Example Website 2 Review (Milestone 2)
 > Review the website you identified above. (1 paragraph)
@@ -428,6 +428,8 @@ Plan your site's content.
 - Information on how to join the list serv
 - Club member bio's
 
+*UPDATE: We removed the images of the judo club because there was an overlap with the album, and made the contact section just a division with information
+
 ### Content Justification (Milestone 2)
 > Explain (about a paragraph) why this content is the right content for your site's audience and how the content addresses their goals.
 
@@ -440,31 +442,33 @@ This content is right for the site's audience. This is because the content is in
 > Include photographic evidence of each iteration of card sorting **and** description of your thought process for each iteration.
 > Please physically sort cards; please don't try and do this digitally.
 
-TODO: photos and explanations of each iteration
-
+- ![First card sort](first-sort.jpg)
+  - For this card sort we started out with all of the content listed previously. The index page works as an introduction to the club, and that is where most of the content was stored. The next page worked as an introduction to judo. This is important because many of the interviewees stated they would be more interested in the club if they knew about judo. The third page was information about the club including facts and member biographys so that the user can learn more about the club. The final page was the contact page, which fulfils one of the goals of the users.
+- ![Second card sort](second-sort.jpg)
+  - For this card sort it is very similar to the first one. However, we realized the photo album already encapsulated the judo photos and so we removed that element from the home page.
+- ![Third card sort](third-sort.jpg)
+  - For this card sort, we first started by moving the contact information to the page with the list serv. The purpose of the list serv is to provide information to the users and so the contact information goes well with it. Also this makes it easier for the user to access the content that they need and it ensures the content is where they expect it to be. Furthermore, we swapped the positions of the judo page and the club page as it makes it easier for the users to find the information they are looking for faster. Furthermore it prioritizes the facts about the club which are more important to the audience when joining a club.
 
 ### Final Content Organization (Milestone 2)
 > Which iteration of card sorting will you use for your website?
 
-TODO: tell us which iteration of card sorting you plan to use.
+The third iteration.
 
 > Explain how the final organization of content is appropriate for your site's audiences.
 
-TODO: why does this organization make sense for your audience (not you)?
-
+The organization of the content fits the goals of the user well and groups like content together. The home page gives some insight to the user on what the club is about. Furthermore, it gives the audience the key information they seek when joining a club, which is the times and days the club is meeting. The second team page gives the user insight into the current club members as well as some facts about the club. This makes it easy for the potential new members to learn about the club. Overall this page provides the deeper content necessary for users who know very little about the club already, and helps the user understand the vibes of the club and what it is all about. The next page gives some insight into what judo is. The interviewee's mentioned that knowing more about judo makes them more likely to join the club and so this page serves the purpose of educating the audience. The final page connects together important information for contacting the club. Therefore this serves the purpose of allowing the user/audience to contact the club.
 
 ### Navigation (Milestone 2)
 > Please list the pages you will include in your website's navigation.
 
-- TODO: page 1
-- TODO: page 2
-- TODO: page 3
-- ...
+- Home
+- About
+- Judo
+- Contact
 
 > Explain why the names of these pages make sense for your site's audience.
 
-TODO: explain why the pages name make sense to the audience.
-
+The main goals of the audience are to learn more about the club so that they can join. These tabs make it clear what information are in what section. The about page gives all the information the user needs about the club. The contact page makes it clear how they can reach out to the club. Overall, these tabs make it clear where the content they need to complete their goals is located.
 
 ## Visual Theme (Milestone 2)
 > Discuss several (more than two) ideas about styling your site's theme. Explain why the theme ideas are appropriate for your target audiences. Note the theme you selected for your site and why it's appropriate for the audience and their goals.
