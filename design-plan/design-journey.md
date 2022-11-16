@@ -526,7 +526,7 @@ TODO: 1 paragraph
 > Describe the purpose of your proposed interactivity.
 > Provide a brief rationale explaining how your proposed interactivity addresses the goals of your site's audience and enhances their user experience.
 
-TODO: 1 paragraph
+The hamnuger menu bar is designed only to show in the mobile version of the website to give audience a easy access to the navagation bar on their phones. The carousel is designed for showing mutiple judo club pictures to the audiences at once. The audiences can have a better knowledge of the club after viewing the pics. The hover feeback is designed for increasing visibility for the navagation bar, which is important in interactivity design. The drop down text bar is designed to show few infomation to the audences at first to provide a simplified look of the page. The audiences can click the interested infomation in their own will to learn more about their desired specific infomation.
 
 
 ## Interactivity Plan (Milestone 2)
