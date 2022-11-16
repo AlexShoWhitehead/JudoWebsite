@@ -580,6 +580,7 @@ In order to create this site we utilized visibility, affordances, familiarity, a
 - ![Judo page interactivity](judo-interactivity.png)
 - ![Contact page interactivity](contact-interactivity.png)
 
+The code/pseudocode/initial states are written below the drawings. The html and css elements are listed next to the elements, and as a whole these sketches tell how to implement the interactivity. This interactivity has accordions, carousels, and a hamburger menu which is adequate for our interactivity and group size.
 
 ## Client Feedback & Minutes (Milestone 2)
 > You should meet with your client again to obtain feedback on your design.
@@ -587,7 +588,21 @@ In order to create this site we utilized visibility, affordances, familiarity, a
 
 TODO: client feedback
 
-TODO: meeting minutes
+- 6:30: meet with client
+  - Showed the client our design notes
+  - Client liked the initial images
+  - Client was confused as to which page was meant for what purpose
+  - Explained to the client home vs team vs judo vs contact
+  - Liked the team layout
+  - Confused about the purpose of the PDF, explained the list-serv purpose
+  - Agreed it was useful to have the PDF
+  - Stated they liked the dates and updates on the front page
+  - Confused as to why there were two carousels
+  - Talked about having a carousel solely about images to look cool on the index and images for fun on the judo page
+  - Thinks that the home page will look a lot more modern and cool than previously
+  - Thinks that the overall lyout is cool
+  - Could use some videos maybe or gifs for aesthetics
+- 6:45 end
 
 
 ## User Testing (Final Submission)
