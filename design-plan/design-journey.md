@@ -503,7 +503,7 @@ Document your site's layout.
 > Include some of your interactivity ideas in your sketches.
 > Provide an explanation for each sketch explaining the idea and the design patterns you are leveraging.
 
-TODO: layout exploration sketches + explanation
+
 ![index html wide sketch1](index-wide-1.jpg)
 ![team html wide sketch1](team-wide-1.jpg)
 ![judo html wide sketch1](judo-wide-1.jpg)
@@ -526,6 +526,8 @@ For the wide ones, we have two different layout sketches for each pages. They bo
 ![team html narrow sketch2](team-narrow-2.PNG)
 ![judo html narrow sketch2](about-narrow-2.PNG)
 ![contact html narrow sketch2](contact-narrow-2.PNG)
+
+The difference between sketch 1 and 2 in narrow home page (index.html) is that in sketch 1 the club goal and the update & time are shown side by side but in iteration2 it goal, updates and time are shown one by one. For the team page, sketch 1 shows 2  members' info and two questions in q&a in a row while in sketch 2 member info and questions are shown one in a row. For the about (judo) page the sketch 1 shows images one by one and the title and text content in history section is shownn side by side. In sketch 2 the images are sorted into a carousel and the title is at the top of the contents in the history section. For the contact page, the skectch one only provides the pdf's name and a download button while in sketch 2 there is a retangular pdf viewer for audiences to view the pdf inside the website.
 
 
 
