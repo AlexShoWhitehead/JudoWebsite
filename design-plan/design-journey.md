@@ -558,8 +558,9 @@ TODO: layout exploration sketches + explanation
 > Specifically, why does your content organization, navigation, and site design/layout meet the goals of your users?
 > How did you employ **design patterns** to improve the familiarity of the site for your audience?
 
-TODO: 1 paragraph
+In order to create this site we utilized visibility, affordances, familiarity, and feedback. When one clicks on the nav bar they receive feedback as the page changes. When clicking on the buttons for the accordion there is a change in the arrow which denotes whether it is open and the arrow itself is an affordance. When the user hovers over buttons the cursor changes which is an affordance. By showing the change in the state of the accordion and the casousel there is also added visibility as the user can see what is occuring. The casousel and the nav bar take the common shape of those elements meaning that they are showing familiarity for the user and we are using common designs. Overall, we use markers aka affordances to show what can be intracted with, there is visibility with showing buttons and other things in interactivity, there is feedback with buttons, and familiarity is shown through common element structure.
 
+Furthermore, throughout this design we used common structures to design the layout itself of the site. Many websites use structures that have horizontally aligned flex items that switch to columns upon the page resizing. Furthermore we show the images and the text in a common way. Overall the compartmentalized design follows many websites that are similar to our own. The pages are also named well so the user knows exactly what each page is. This means that the user will be familiar with the website and therefore the site overall is familiar to the audience.
 
 ## Interactivity Rationale (Milestone 2)
 > Describe the purpose of your proposed interactivity.
@@ -567,6 +568,7 @@ TODO: 1 paragraph
 
 The hamburger menu bar is designed only to show in the mobile version of the website to give audience a easy access to the navagation bar on their phones. The carousel is designed for showing mutiple judo club pictures to the audiences at once. The audiences can have a better knowledge of the club after viewing the pics. The hover feeback is designed for increasing visibility for the navagation bar, which is important in interactivity design. The drop down text bar is designed to show few infomation to the audences at first to provide a simplified look of the page. The audiences can click the interested infomation in their own will to learn more about their desired specific infomation.
 
+In order to create this site we utilized visibility, affordances, familiarity, and feedback. When one clicks on the nav bar they receive feedback as the page changes. When clicking on the buttons for the accordion there is a change in the arrow which denotes whether it is open and the arrow itself is an affordance. When the user hovers over buttons the cursor changes which is an affordance. By showing the change in the state of the accordion and the casousel there is also added visibility as the user can see what is occuring. The casousel and the nav bar take the common shape of those elements meaning that they are showing familiarity for the user and we are using common designs. Overall, we use markers aka affordances to show what can be intracted with, there is visibility with showing buttons and other things in interactivity, there is feedback with buttons, and familiarity is shown through common element structure.
 
 ## Interactivity Plan (Milestone 2)
 > Now that you've designed your interactivity for your site, you need to plan how you will implement it.
