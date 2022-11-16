@@ -509,7 +509,7 @@ TODO: layout exploration sketches + explanation
 ![judo html wide sketch2](judo-wide-2.jpg)
 ![contact html wide sketch2](contact-wide-2.jpg)
 
-For the wide ones, we have two different layout sketches for each pages. They both have logo, name of the club and navigation bar on the top. The first layout
+
 
 
 
