@@ -473,8 +473,13 @@ The main goals of the audience are to learn more about the club so that they can
 ## Visual Theme (Milestone 2)
 > Discuss several (more than two) ideas about styling your site's theme. Explain why the theme ideas are appropriate for your target audiences. Note the theme you selected for your site and why it's appropriate for the audience and their goals.
 
-TODO: theme ideas, rationale, and final theme
+Our target audience consists of university students looking to join a club where they can have some fun and get exercise while learning a new skill. As such, we created three layouts based off of this idea.
 
+- For the first style we decided to create a style that was very fluid. We examined the Pedro's gym judo website and saw that it was one long page. We wanted the page to be fun and use lots of colors and chose the same colors as Pedro's gym which was red, white, and blue. There were no real compartments and the content was sort of spread out. This was meant to create a fun and inviting open feeling which would cause members to join. Several interviewee's and audience members stated that the clubs vibe was important to them joining and this creates positive feelings.
+- The second style takes the ideas of the first style and spins it to be more structured. To contrast the open and free idea of the first style, we decided to compartmentalize the data. Therefore, each layer of the page has a single element whether that is a carousel or a text element. This makes the club seem more serious and more of a competitive club than an open gym. Furthermore it makes the content easier to view and understand which is better for the audience. The audience ultimately wants to find the content they are looking for and we think that this makes it easier for them to do so.
+- The third style follows more closely the hockey example website. The first page has a carousel for the images at the top and then the text follows. For the next pages it is very compartmentalized however there are free elements such as text over the images. However, this gave too much of a strict serious feeling and as such we decided to change it around. We changed the color scheme to be red and white to match Cornell. We also spread out the elements with more white space to make the page seem more relaxed and less full of information. This was meant to make the page more readable for the user so that they could find the content easier.
+
+Ultimately we decided to follow the second iteration. It maintains the fun and open feeling of Pedro's gym's website which is important to the audience. However, it also compartmentalizes the content making it easier for the audience to find and read the correspinding information. Therefore, the second element is the best of both worlds in terms of combining fun versus accessibility and readability.
 
 ## Design (Milestone 2)
 
@@ -485,10 +490,10 @@ Document your site's layout.
 > Briefly explain idea each idea and provide a brief rationale for how the interactivity enhances the site's functionality for the audience.
 > Note: You may find it easier to sketch for brainstorming. That's fine too. Do whatever you need to do to explore your ideas.
 
-- hambuger menu for the navagation bar in the mobile version of the website. It enhances the site's functionality by prviding easier access of the nav bar inside the mobile version of the website.
+- hambuger menu for the navagation bar in the mobile version of the website. It enhances the site's functionality by providing easier access of the nav bar inside the mobile version of the website.
 - Image carousel for the picture album section. It provides a convenient way for audiences to view multiple pictures at once on the website.
-- hover feedback for items in navagation bar. It helps the audiences easier recognize which item they are choosing.
-- drop down text bars for the fax section. It helps simplified the contents within the page and each audience can click on what they want to know to see more specific infomation.
+- Hover feedback for items in navagation bar. It helps the audiences easier recognize which item they are choosing.
+- Drop down text bars for the fax section. It helps simplified the contents within the page and each audience can click on what they want to know to see more specific infomation.
 
 
 ### Layout Exploration (Milestone 2)
@@ -530,7 +535,7 @@ TODO: 1 paragraph
 > Describe the purpose of your proposed interactivity.
 > Provide a brief rationale explaining how your proposed interactivity addresses the goals of your site's audience and enhances their user experience.
 
-The hamnuger menu bar is designed only to show in the mobile version of the website to give audience a easy access to the navagation bar on their phones. The carousel is designed for showing mutiple judo club pictures to the audiences at once. The audiences can have a better knowledge of the club after viewing the pics. The hover feeback is designed for increasing visibility for the navagation bar, which is important in interactivity design. The drop down text bar is designed to show few infomation to the audences at first to provide a simplified look of the page. The audiences can click the interested infomation in their own will to learn more about their desired specific infomation.
+The hamburger menu bar is designed only to show in the mobile version of the website to give audience a easy access to the navagation bar on their phones. The carousel is designed for showing mutiple judo club pictures to the audiences at once. The audiences can have a better knowledge of the club after viewing the pics. The hover feeback is designed for increasing visibility for the navagation bar, which is important in interactivity design. The drop down text bar is designed to show few infomation to the audences at first to provide a simplified look of the page. The audiences can click the interested infomation in their own will to learn more about their desired specific infomation.
 
 
 ## Interactivity Plan (Milestone 2)
