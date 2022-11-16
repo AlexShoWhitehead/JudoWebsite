@@ -481,9 +481,10 @@ Document your site's layout.
 > Briefly explain idea each idea and provide a brief rationale for how the interactivity enhances the site's functionality for the audience.
 > Note: You may find it easier to sketch for brainstorming. That's fine too. Do whatever you need to do to explore your ideas.
 
-- TODO: interactivity idea 1
-- TODO: interactivity idea 2
-- TODO: ...
+- hambuger menu for the navagation bar in the mobile version of the website. It enhances the site's functionality by prviding easier access of the nav bar inside the mobile version of the website.
+-  Image carousel for the picture album section. It provides a convenient way for audiences to view multiple pictures at once on the website.
+-  hover feedback for items in navagation bar. It helps the audiences easier recognize which item they are choosing.
+-  drop down text bars for the fax section. It helps simplified the contents within the page and each audience can click on what they want to know to see more specific infomation.
 
 
 ### Layout Exploration (Milestone 2)
