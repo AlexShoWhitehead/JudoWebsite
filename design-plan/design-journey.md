@@ -514,7 +514,7 @@ TODO: layout exploration sketches + explanation
 ![judo html wide sketch2](judo-wide-2.jpg)
 ![contact html wide sketch2](contact-wide-2.jpg)
 
-
+For the wide ones, we have two different layout sketches for each pages. They both have logo, name of the club and navigation bar on the top. The first layout has logo and name on the same row and navigation bar on the second row and they are all centered in the page. The second layout has logo, name and navigation bar on one single row. Following on the index.html page are both a full screen carousel. And after that, layout one has dates and times in the side bar, layout 2 has dates and times and also updates on the sidebar. For the team.html, the main differences is the layout of members bios. In the first layout, It takes a row for each member bio. In layout 2, they are display in 2 rows and 3 columns. For judo.html, the image display and interactiviity are different: layout 1 is thumbnail in 2 rows and 4 columns, layout 2 is a carousel. On the contact.html, the main part of the page is in column in the first layout, row in the second layout.
 
 
 ![index html narrow sketch1](home-narrow-1.PNG)
