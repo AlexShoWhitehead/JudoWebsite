@@ -68,7 +68,7 @@ Major Pages:
 
 4. Who do you want to visit your site? Who do you believe is your website's intended audience?
 
-    The client wants prospective Judo club members who are interested in joining the club to visit our site. Thus, our website's intended audience is prospective Judo Club members.
+    The client wants prospective Judo club members who are interested in joining the club to visit our site. Thus, our website's intended audience is prospective Judo Club members from the Cornell and general Ithaca community who are looking to join a judo club.
 
 5. When visiting your site, what actions do you want your visitors to take?
 
@@ -158,19 +158,22 @@ You can use bullet points and lists, or full paragraphs, or a combo, whichever i
 > Plan the user interview which you'll use to identify the goals of your site's audience.
 > You may use the interview template below and revise it as much as you desire.
 
-**User Interview Briefing & Consent:** "Hi, I am a student at Cornell University. I'm currently taking a class on web design and for a project, I am designing the website for (TODO: client's name). I'm trying to learn more about the people that might use this site. May I ask you a few questions? It will take about 10 minutes. You are free to quit at any time."
+**User Interview Briefing & Consent:** "Hi, I am a student at Cornell University. I'm currently taking a class on web design and for a project, I am designing the website for the Cornell Judo Club. I'm trying to learn more about the people that might use this site. May I ask you a few questions? It will take about 10 minutes. You are free to quit at any time."
 
 1. Please tell me a bit about yourself. You may omit any personal or private information.
 
-2. TODO: add your own question
+2. Recall the last time you attempted to join a club. What information was most important to helping you join?
 
-3. TODO: add your own question
+3. Recall the last time you attempted to join a club. How did you find out where the club was meeting and at what time?
 
-4. TODO: add your own question
+4. What do you know about the sport of Judo?
+5. How does knowing more about the sport of Judo impact your willingness to join the club?
 
-...
+6. How do you typically receive information about clubs in which you are involved?
 
-n. What haven't I asked you today that you think would be valuable for me to know?
+7. Recall the last time you wanted to join a club. What aspects of the club made you interested in joining?
+
+8. What haven't I asked you today that you think would be valuable for me to know?
 
 **After the interview:** "This was really helpful. Thank you so much for agreeing to speak with me today. Have a great day!"
 
@@ -183,62 +186,181 @@ n. What haven't I asked you today that you think would be valuable for me to kno
 
 **Interviewee 1:**
 
-TODO: tell us a bit about your participant
+Previously practiced Judo when very young. A good fit for the key audience of the club.
 
-TODO: copy interview questions
-TODO: take notes inline with questions
+1. Please tell me a bit about yourself. You may omit any personal or private information.
+
+    This interviewee is an Undergraduate Sophomore and is male. They practiced judo when they were young however stopped as they got older due to other activities.
+
+2. Recall the last time you attempted to join a club. What information was most important to helping you join?
+
+    The time and days of the week the club met. Also where the club meets because sometimes clubs do not list the location. It is useful to know what exactly one needs to bring for the club because some clubs especially sports do not tell you the equipment list. It would be useful to have contact information as well.
+
+3. Recall the last time you attempted to join a club. How did you find out where the club was meeting and at what time?
+
+    They met the club president at ClubFest and learned the times and location that way. It is important to know the time and location because in case it is hard to contact the club they could always go in person.
+
+4. What do you know about the sport of Judo?
+
+    The interviewee practiced for several years and has a reasonably high knowledge level of Judo.
+
+5. How does knowing more about the sport of Judo impact your willingness to join the club?
+
+   Not much because this interviewee already had experience. The only reason they hadn't joined yet is because they are too busy but learning more would not help.
+
+6. How do you typically receive information about clubs in which you are involved?
+
+    Typically the clubs they am in send out a weekly email or list serv of some sort.
+
+7. Recall the last time you wanted to join a club. What aspects of the club made you interested in joining?
+
+    Usually the overall vibe of the club. If the club is on an interesting topic that helps too. A lack of contact makes them want to join the club less.
+
+8. What haven't I asked you today that you think would be valuable for me to know?
+
+    Maybe about other things that could be included. Interviewee mentioned many sports clubs require waivers which is important info to have on the site.
 
 
 **Interviewee 2:**
 
-TODO: tell us a bit about your participant
+1. Please tell me a bit about yourself. You may omit any personal or private information.
 
-TODO: copy interview questions
-TODO: take notes inline with questions
+    An undergraduate senior with a background in martial arts but not judo.
 
+2. Recall the last time you attempted to join a club. What information was most important to helping you join?
+
+    Joined through connections to the existing members of the club. Another club was joined because they wanted to get some exercise in and the club seemed interesting.
+
+3. Recall the last time you attempted to join a club. How did you find out where the club was meeting and at what time?
+
+    Asked a friend who was currently in the club.
+
+4. What do you know about the sport of Judo?
+
+    Not too much. Cross trained in Sambo and BJJ so some background in grappling but not tons of information about judo itself.
+
+5. How does knowing more about the sport of Judo impact your willingness to join the club?
+
+    Probably more likely to join. Usually joins based on interest in the subject so if judo seems interesting they are more likely to join.
+
+6. How do you typically receive information about clubs in which you are involved?
+
+    A lot of clubs have a weekly email. Typically receives information this way or by word of mouth. Some clubs have weekly Instagram posts with information and cool graphics.
+
+7. Recall the last time you wanted to join a club. What aspects of the club made you interested in joining?
+
+    Mainly joins clubs because their friends are there. Also if the club topics seem interesting then they are more likely to join the club.
+
+8. What haven't I asked you today that you think would be valuable for me to know?
+
+    Not sure, seems pretty good overall.
 
 **Interviewee 3:**
 
-TODO: tell us a bit about your participant
+1. Please tell me a bit about yourself. You may omit any personal or private information.
 
-TODO: copy interview questions
-TODO: take notes inline with questions
+    Undergraduate junior female. No background in martial arts but is interested.
 
+2. Recall the last time you attempted to join a club. What information was most important to helping you join?
 
-TODO: add additional interviewees as needed
+    The GBody meeting times and any events they host. Where they meet and whether the club is closed (requires auditions) or not. Images are useful because you can see the people and if they are tight knit.
 
+3. Recall the last time you attempted to join a club. How did you find out where the club was meeting and at what time?
+
+    Went to the list serv from ClubFest. Their Instagram also showed the date and time (useful infographics).
+
+4. What do you know about the sport of Judo?
+
+    Very little. A beginner who has heard of it but had no experience.
+
+5. How does knowing more about the sport of Judo impact your willingness to join the club?
+
+    Knowing more about Judo would probably make them easier to join and more likely to understand what the club was about. Knowing how the club is different from the other sports clubs on campus make them more likely to join.
+
+6. How do you typically receive information about clubs in which you are involved?
+
+    Most clubs have a weekly list serv.
+
+7. Recall the last time you wanted to join a club. What aspects of the club made you interested in joining?
+
+    Friendliness, fun (as seen in images), interest in the topic
+
+8. What haven't I asked you today that you think would be valuable for me to know?
+
+    Generally covered everything.
+
+**Interviewee 4:**
+
+1. Please tell me a bit about yourself. You may omit any personal or private information.
+
+    Undergraduate junior male in the engineering school.
+
+2. Recall the last time you attempted to join a club. What information was most important to helping you join?
+
+    They learned everything from meeting the EBoard at ClubFest.
+
+3. Recall the last time you attempted to join a club. How did you find out where the club was meeting and at what time?
+
+    The ClubFest booth had all the information they needed.
+
+4. What do you know about the sport of Judo?
+
+    A decent amount. They grew up in Japan and some family practiced judo as well but they chose to practice other sports.
+
+5. How does knowing more about the sport of Judo impact your willingness to join the club?
+
+    Not much as they already know but it could be useful to include images of the club because they would pique interest.
+
+6. How do you typically receive information about clubs in which you are involved?
+
+    Most clubs have weekly list servs.
+
+7. Recall the last time you wanted to join a club. What aspects of the club made you interested in joining?
+
+    They stayed in the club because it was well run. They initially joined because it was a similar club to one they joined in highschool and they were interested in the topic.
+
+8. What haven't I asked you today that you think would be valuable for me to know?
+
+    Nothing they could think of.
 
 ### Goals (Milestone 2)
 > Analyze your audience's goals from your notes above.
 > List each goal below. There is no specific number of goals required for this, but you need enough to do the job (Hint: It's more than 1 and probably more than 2).
 
-Goal 1: TODO: brief title
+Goal 1: Get information on what Judo is
 
 - **Design Ideas and Choices** _How will you meet those goals in your design?_
-  - TODO: design ideas
+  - Include a section with images specifically about the history and description of Judo
 - **Rationale & Additional Notes** _Justify your decisions; additional notes._
-  - TODO: rationale
+  - By including images it makes the description of Judo more interesting. Furthermore by having this history it will make it easier for the audience to understand what Judo is.
 
-Goal 2: TODO: brief title
+Goal 2: Get information on club logistics
 
 - **Design Ideas and Choices** _How will you meet those goals in your design?_
-  - TODO: design ideas
+  - Include an aside on the homepage which will show the dates and times of meetings. Furthermore there will be an updates section. There will also be a fax page which will probably include a dropdown menu.
 - **Rationale & Additional Notes** _Justify your decisions; additional notes._
-  - TODO: rationale
+  - By having this content front and center it is easily visible to the audience. This is important because it makes the content centralized and accessible which is important because finding out the club logistics is one of the key things audience members are looking for on the website.
 
-Goal 3: TODO: brief title
+Goal 3: Gain access to the weekly list serv for updates
 
-TODO: design ideas and rationale
+- **Design Ideas and Choices** _How will you meet those goals in your design?_
+  - Include a page which has the list serv linked at the top with directions in how to join. Furthermore, there will be a pdf embedded in the site that shows that weeks list serv, so that the new users can see the most recent updates without needing to join the list serv first.
+- **Rationale & Additional Notes** _Justify your decisions; additional notes._
+  - By having the directions and the list serv people can easily follow the familiar design used by other sites of receiving a weekly email. By having the PDF embedded in the site, new users can see updates without having to sign up first.
 
+Goal 4: Understand the goals and overall vibe of the judo club
 
-TODO: add as many goals as needed
+- **Design Ideas and Choices** _How will you meet those goals in your design?_
+  - Include a photo album section in the website as well as a goal section on the front page
+- **Rationale & Additional Notes** _Justify your decisions; additional notes._
+  - By having the goals of the club listed it makes it clear what the club is about. By including a photo album potential new members can see what the club is like and the vibe of the club.
 
 
 ### Audience (Milestone 2)
 > Briefly explain your site's audience.
 > Be specific and justify why this audience is a **cohesive** group with regard to your website.
 
-TODO: site's _cohesive_ audience
+Cornell students with an interest in practicing a new martial art who would like to learn about the Judo club. This audience is a cohesive group with regard to my website as it includes the backgrounds and the goals of all of the interviewee's in our sample size. Furthermore, the client wants a website to draw in new members so their wants follow the interests and goals of the interviewees.
 
 
 ## Website Design Exploration (Milestone 2)
@@ -249,45 +371,42 @@ Include two screenshots of the home page for each site: narrow and wide.
 
 **We'll refer to these are your "example websites."**
 
-1. <TODO: website url>
+1. <https://pedrosjudo.com/>
 
-    ![TODO: narrow screenshot description](TODO: narrow screenshot path)
+    ![Pedros gym narrow screen version](pedros-narrow.png)
 
-    ![TODO: wide screenshot description](TODO: wide screenshot path)
+    ![Pedros gym wide screen version](pedros-wide.png)
 
-2. <TODO: website url>
+2. <https://cornellclubhockey.com/>
 
-    ![TODO: narrow screenshot description](TODO: narrow screenshot path)
+    ![Cornell Club Hockey narrow screen version](hockey-narrow.png)
 
-    ![TODO: wide screenshot description](TODO: wide screenshot path)
+    ![Cornell Club Hockey wide screen version](hockey-wide.png)
 
-3. <TODO: website url>
+3. <https://www.teamusa.org/usa-judo>
 
-    ![TODO: narrow screenshot description](TODO: narrow screenshot path)
+    ![Team USA Judo narrow screen version](usajudo-narrow.png)
 
-    ![TODO: wide screenshot description](TODO: wide screenshot path)
+    ![Team USA Judo wide screen version](usajudo-wide.png)
 
 
 ### Example Website 1 Review (Milestone 2)
 > Review the website you identified above. (1 paragraph)
 > In your review, include a discussion common design patterns and interactivity in the site.
 
-TODO: website reflection/critique
-
+The website appears to be a single page that has content load in as one scrolls. The wide screen has a menu at the top that drops down when the user hovers over it displaying further options. At the top is the name, and location and contact information. There is a background image with solid color blocks with text on it to contrast the text and the background image. This website does a good job of sorting the content and making it clear when there are divides. This is because the site uses a menu with a dropdown menu. Furthermore, as the user scrolls, the content gradually fades into existance so the user knows it is looking at new content. For the narrow page the page now has a hamburger menu as the menu. The content is separated into square sections as the user scrolls. The content is the same, howeve, but it makes the content easier to understand by separating it into sections.
 
 ### Example Website 2 Review (Milestone 2)
 > Review the website you identified above. (1 paragraph)
 > In your review, include a discussion common design patterns and interactivity in the site.
 
-TODO: website reflection/critique
-
+The widescreen portion of this website has a menu bar at the top. As the user hovers over each item in the nav bar the nav bar is highlighted. Under the header nav bar is a slideshow showing images of the club. Under the slide show is information on the club and how to join. Other pages include the schedule as well as a 3x4 chart showing recent news. On each page at the bottom is the contact information and social medias. For the narrow page, the front page stays the same just shrinks down. The nav bar turns into a hamburger dropdown bar. As for the schedule and the news they turn into a column of information separated into different divisions with separations between the divisions.
 
 ### Example Website 3 Review (Milestone 2)
 > Review the website you identified above. (1 paragraph)
 > In your review, include a discussion common design patterns and interactivity in the site.
 
-TODO: website reflection/critique
-
+This page has several sections. For the wide version, in each section are different news articles that have two per line. The menu is a drop down that has section headers with dropdowns for individual elements. When the elements are hovered over, there is a cursor. One can move and scroll using the arrow keys. When the buttons are hovered over they highlight. For the narrow version the menu is still a dropdown. The news articles are now vertically aligned in a column running down the page, and the interactivity is the same as previously from the wide version.
 
 ## Content Planning (Milestone 2)
 
@@ -297,17 +416,22 @@ Plan your site's content.
 > List **all** the content you plan to include your website.
 > You should list all types of content you planned to include (i.e. text, photos, images, etc.)
 
-- TODO: content 1
-- TODO: content 2
-- TODO: content 3
-- ...
-
+- Text description of the history of Judo
+- Images of the Judo club
+- Homepage aside with information on the club dates and times
+- Updates section
+- Fax page that gives information on the club
+- Contact section that allows for potential members to reach out to current members
+- Photo album
+- Club goal on the front page
+- Embedded PDF of the list serv for that week
+- Information on how to join the list serv
+- Club member bio's
 
 ### Content Justification (Milestone 2)
 > Explain (about a paragraph) why this content is the right content for your site's audience and how the content addresses their goals.
 
-TODO: justify your content decisions
-
+This content is right for the site's audience. This is because the content is inspired by interviews taken from the audience. The audience is potential new members of the judo club from the Cornell community and this content will help these new members connect to and join the judo club. The audience wanted to know more about the club, learn about judo, access the list serv, and get a feel for the club. This content will help the audience address these goals. The text description of judo and the images will help the user learn about judo. The information will help the audience learn about the club and will put the content front and center so it is easy for the user to find and access. The photos will help the user get a feel for the club, and the list serv will help the user view what the club is doing. Finally, the bios will be useful as many users join clubs because they have friends in the club and this highlights members of the club.
 
 ## Information Architecture (Milestone 2)
 
