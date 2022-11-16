@@ -543,7 +543,10 @@ The hamburger menu bar is designed only to show in the mobile version of the web
 > Describe how you will implement the interactivity. This should be a complete plan that another 1300 student could use to implement the interactivity.
 > You should list the HTML elements, CSS classes, events, pseudocode, and the initial state.
 
-TODO: interactivity plan
+- ![Home page interactivity](home-interactivity.png)
+- ![Team page interactivity](team-interactivity.png)
+- ![Judo page interactivity](judo-interactivity.png)
+- ![Contact page interactivity](contact-interactivity.png)
 
 
 ## Client Feedback & Minutes (Milestone 2)
