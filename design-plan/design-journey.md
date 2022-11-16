@@ -527,6 +527,8 @@ TODO: layout exploration sketches + explanation
 ![judo html narrow sketch2](about-narrow-2.PNG)
 ![contact html narrow sketch2](contact-narrow-2.PNG)
 
+The difference between sketch 1 and 2 in narrow home page (index.html) is that in sketch 1 the
+
 
 
 
