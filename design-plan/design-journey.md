@@ -546,10 +546,12 @@ The difference between sketch 1 and 2 in narrow home page (index.html) is that i
 
 **Wide (Wide) Design:**
 
-![index html wide sketch2](index-wide-2.jpg)
-![team html wide sketch2](team-wide-2.jpg)
-![judo html wide sketch2](judo-wide-2.jpg)
-![contact html wide sketch2](contact-wide-2.jpg)
+![index html wide final sketch](index-wide-final.jpg)
+![team html wide final sketch](team-wide-final.jpg)
+![judo html wide final sketch](judo-wide-final.jpg)
+![contact html wide final sketch](contact-wide-final.jpg)
+
+
 
 
 ### Design Rationale (Milestone 2)
