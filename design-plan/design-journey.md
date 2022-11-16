@@ -529,9 +529,6 @@ For the wide ones, we have two different layout sketches for each pages. They bo
 
 The difference between sketch 1 and 2 in narrow home page (index.html) is that in sketch 1 the club goal and the update & time are shown side by side but in iteration2 it goal, updates and time are shown one by one. For the team page, sketch 1 shows 2  members' info and two questions in q&a in a row while in sketch 2 member info and questions are shown one in a row. For the about (judo) page the sketch 1 shows images one by one and the title and text content in history section is shownn side by side. In sketch 2 the images are sorted into a carousel and the title is at the top of the contents in the history section. For the contact page, the skectch one only provides the pdf's name and a download button while in sketch 2 there is a retangular pdf viewer for audiences to view the pdf inside the website.
 
-
-
-
 ### Final Design (Milestone 2)
 > Include the final sketches for each of your pages.
 > **Include your final interactivity in your sketches.** Include annotations to explain what happens when the user takes an action with your interactivity.
@@ -588,7 +585,7 @@ The code/pseudocode/initial states are written below the drawings. The html and 
 > You should meet with your client again to obtain feedback on your design.
 > Provide a summary of the client's feedback and your meeting's minutes.
 
-TODO: client feedback
+The client overall liked our idea and wants us to continue with the design. There were some features that required explaining to the client and some additional requests from the client. Overall the client thought that the design was a lot more modern and a major improvement over the previous website and liked the interactivity.
 
 - 6:30: meet with client
   - Showed the client our design notes
@@ -596,14 +593,19 @@ TODO: client feedback
   - Client was confused as to which page was meant for what purpose
   - Explained to the client home vs team vs judo vs contact
   - Liked the team layout
+  - Thinks that having different sections for different information is useful
+  - Liked the color scheme and thought it fit the club well
   - Confused about the purpose of the PDF, explained the list-serv purpose
   - Agreed it was useful to have the PDF
   - Stated they liked the dates and updates on the front page
   - Confused as to why there were two carousels
   - Talked about having a carousel solely about images to look cool on the index and images for fun on the judo page
   - Thinks that the home page will look a lot more modern and cool than previously
-  - Thinks that the overall lyout is cool
-  - Could use some videos maybe or gifs for aesthetics
+  - Thinks that the overall lyout is cool and agrees that this is the best way to go
+  - Asked for any extra critiques or feedback to add to the site
+  - Stated could use some videos maybe or gifs for aesthetics
+  - Discussed adding videos to the site, decided having the carousel would be more useful and not over the top
+  - Stated maybe could add links to other judo websites under the judo page
 - 6:45 end
 
 
