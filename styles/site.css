@@ -70,23 +70,23 @@ button{
     border-width: 0;
 }
 
-#homepage-carousel{
+#homepage-carousel, #judo-carousel{
     width: 100%;
 }
 
-#homepage-carousel button{
+#homepage-carousel button, #judo-carousel button{
     background-color:rgb(194, 32, 32);
 }
 
-#homepage-carousel button:hover{
+#homepage-carousel button:hover, #judo-carousel button:hover{
     background-color:rgb(192, 102, 102);
 }
 
-#homepage-carousel .carousel-pic{
+#homepage-carousel .carousel-pic, #judo-carousel .carousel-pic{
     width: 94%;
 }
 
-#homepage-carousel button{
+#homepage-carousel button, #judo-carousel button{
     height: 100px;
     width: 3%;
 }
@@ -140,9 +140,11 @@ footer{
     background-color:rgb(194, 32, 32);
     padding: 1em;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
     align-items: center;
 }
+
+
 
 @media (max-width: 754px){
     .wide-nav{
