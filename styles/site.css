@@ -13,12 +13,10 @@ h2 {
     justify-content:space-between;
     margin-left: 90px;
     margin-right: 90px;
-    border-bottom: 2px solid black;
-    margin-bottom: 10px;
 }
 
 iframe {
-    width: 60vw;
+    width: 800px;
     height: 100vh;
     margin-left: 10px;
 }
@@ -26,6 +24,10 @@ iframe {
 nav{
     display: flex;
     align-items: center;
+}
+
+.hamburger{
+    display: none;
 }
 
 a{
@@ -55,6 +57,7 @@ a{
     flex-direction: column;
 }
 
+
 .hide{
     display: none !important;
 }
@@ -81,7 +84,7 @@ button{
 }
 
 #homepage-carousel .carousel-pic{
-    width: 94vw;
+    width: 94%;
 }
 
 #homepage-carousel button{
@@ -89,36 +92,21 @@ button{
     width: 3%;
 }
 
-.club-goal {
-    width: 60vw;
-}
-
-.updates-dates-and-times, .club-goal {
-    text-align: center;
-    margin: 10px;
-}
-
-
 .accordion-btn {
     width: 100%;
     text-align: center;
-    font-size: 20px;
-}
-
-.accordion-btn:hover {
-    cursor: pointer;
 }
 
 .bio-section {
     display: flex;
     flex-direction: row;
-    width: 60vw;
+    width: 1000px;
     margin-left: auto;
     margin-right: auto;
 }
 
 .person {
-    width: 20vw;
+    width: 600px;
     border: 2px solid black;
     text-align: center;
     padding-left: 10px;
@@ -128,8 +116,6 @@ button{
 .other-info {
     display: flex;
     flex-direction: row;
-    border-top: 2px solid black;
-    margin-top: 10px;
 }
 
 .contact-main-box {
@@ -138,17 +124,19 @@ button{
 }
 
 .how-to-join {
-    width: 35vw;
+    width: 600px;
     position: absolute;
-    right: 10px;
-    top: 50vh;
+    right: 0;
 }
 
-footer{
-    color: #000000;
-    background-color:rgb(194, 32, 32);
-    padding: 1em;
-    display: flex;
-    justify-content: space-evenly;
-    align-items: center;
+@media (max-width: 754px){
+
+    .wide-nav{
+        display:none;
+    }
+
+    .hamburger{
+        display:contents;
+    }
+
 }
