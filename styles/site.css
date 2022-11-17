@@ -16,7 +16,7 @@ h2 {
 }
 
 iframe {
-    width: 800px;
+    width: 60vw;
     height: 100vh;
     margin-left: 10px;
 }
@@ -69,6 +69,7 @@ a{
 
 button{
     border-width: 0;
+    cursor: pointer;
 }
 
 #homepage-carousel, #judo-carousel{
@@ -95,18 +96,19 @@ button{
 .accordion-btn {
     width: 100%;
     text-align: center;
+    font-size: 20px;
 }
 
 .bio-section {
     display: flex;
     flex-direction: row;
-    width: 1000px;
+    width: 60vw;
     margin-left: auto;
     margin-right: auto;
 }
 
 .person {
-    width: 600px;
+    width: 20vw;
     border: 2px solid black;
     text-align: center;
     padding-left: 10px;
@@ -124,9 +126,19 @@ button{
 }
 
 .how-to-join {
-    width: 600px;
+    width: 35vw;
     position: absolute;
-    right: 0;
+    right: 10px;
+    top: 50vh;
+}
+
+.club-goal {
+    width: 60vw;
+}
+
+.club-goal, .updates-dates-and-times {
+    text-align: center;
+    margin: 10px;
 }
 
 footer{
