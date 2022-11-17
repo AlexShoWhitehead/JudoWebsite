@@ -27,7 +27,7 @@ nav{
 }
 
 .hamburger{
-    display: none;
+    display: none !important;
 }
 
 a{
@@ -161,7 +161,7 @@ footer{
     }
 
     .hamburger{
-        display:contents;
+        display:contents !important;
     }
 
     .top{
