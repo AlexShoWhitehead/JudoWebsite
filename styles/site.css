@@ -29,7 +29,7 @@ a{
     width: 100px;
     height: 100%;
     text-align: center;
-    background-color: rgb(220, 232, 247);
+    background-color: rgb(247, 226, 220);
 }
 
 .navb:hover{
@@ -40,4 +40,8 @@ a{
     background-color: rgb(194, 32, 32);
     display: flex;
     flex-direction: column;
+}
+
+.hide{
+    display: none;
 }
