@@ -43,5 +43,20 @@ a{
 }
 
 .hide{
-    display: none;
+    display: none !important;
+}
+
+.carousel{
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+
+.carousel-pic{
+    width: 94%;
+}
+
+button{
+    height: 50px;
+    width: 3%;
 }
