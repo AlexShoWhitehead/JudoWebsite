@@ -544,6 +544,8 @@ The difference between sketch 1 and 2 in narrow home page (index.html) is that i
 ![judo html narrow final sketch](judo-narrow-final.PNG)
 ![contact html narrow final sketch](contact-narrow-final.PNG)
 
+Like the wide design of the website,every page have the same navigation bar with logo and the name of the club on the right on the same row. Instead of the buttons should have hover effect, there is a hambuger menu on the top right corner that contains all the buttons in wide design. In the home page, we have a carousel and the club goal, updates, dates and times coming one after one. For the team page, we have the bios displayers one per row and the F.A.Q. section with drop down text bar for answer after the bio. For the judo page we have a carousel and a text content of history. For the contact page, we have a pdf viewer at first and text contents about how to join coming after.
+
 **Wide (Wide) Design:**
 
 ![index html wide final sketch](index-wide-final.jpg)
