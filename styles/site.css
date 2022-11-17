@@ -89,6 +89,16 @@ button{
     width: 3%;
 }
 
+.club-goal {
+    width: 60vw;
+}
+
+.updates-dates-and-times, .club-goal {
+    text-align: center;
+    margin: 10px;
+}
+
+
 .accordion-btn {
     width: 100%;
     text-align: center;
@@ -118,6 +128,8 @@ button{
 .other-info {
     display: flex;
     flex-direction: row;
+    border-top: 2px solid black;
+    margin-top: 10px;
 }
 
 .contact-main-box {
