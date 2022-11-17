@@ -550,8 +550,7 @@ The difference between sketch 1 and 2 in narrow home page (index.html) is that i
 ![team html wide final sketch](team-wide-final.jpg)
 ![judo html wide final sketch](judo-wide-final.jpg)
 ![contact html wide final sketch](contact-wide-final.jpg)
-
-
+Every page have the same navigation bar with logo and the name of the club on the right on the same row, the buttons should have hover effect. On the homepage, we have a full screen carousel down the navigation bar and then club goal with updates, dates and times on the sidebar. In team.html, we have heading and bios displayed in 2 rows and 3 columns following the navigation bar. Following is the heading and Q&A section. The questions are clickable are answers dropdown. In judo.html, we have a carousel centered in the page and then the heading and text of the history of judo. On the contact.html, we have the PDF and text about how to join on the sidebar.
 
 ### Design Rationale (Milestone 2)
 > Explain why your design is appropriate for your audience.
