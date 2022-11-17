@@ -115,11 +115,18 @@ button{
 .other-info {
     display: flex;
     flex-direction: row;
+    margin: 50px;
+}
+
+aside{
+    width: 180px;
 }
 
 .club-goal{
     padding: 20px;
+    margin-right: 40px;
 }
+
 .updates-dates-and-times{
     padding: 10px;
 }
@@ -161,6 +168,10 @@ footer{
     }
 
     .top img{
+        width: auto;
+    }
+
+    aside{
         width: auto;
     }
 }
