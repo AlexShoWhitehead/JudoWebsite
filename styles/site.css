@@ -131,3 +131,12 @@ button{
     right: 10px;
     top: 50vh;
 }
+
+footer{
+    color: #000000;
+    background-color:rgb(194, 32, 32);
+    padding: 1em;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
