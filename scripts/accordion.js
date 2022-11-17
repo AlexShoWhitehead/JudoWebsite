@@ -82,7 +82,7 @@ $("#accordion_four").click(function() {
 // Accordion Five JS
 $("#accordion_five").click(function() {
     if ($("#dropd_five").hasClass("hide")) {
-        $("#dropd_dive").removeClass("hide");
+        $("#dropd_five").removeClass("hide");
     }
     else {
         $("#dropd_five").addClass("hide");
