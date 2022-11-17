@@ -7,6 +7,8 @@ body{
     display: flex;
     height: 150px;
     justify-content:space-between;
+    margin-left: 90px;
+    margin-right: 90px;
 }
 
 nav{
@@ -29,11 +31,10 @@ a{
     width: 100px;
     height: 100%;
     text-align: center;
-    background-color: rgb(247, 226, 220);
 }
 
 .navb:hover{
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(251, 239, 239);
 }
 
 .this-navb{
@@ -49,14 +50,29 @@ a{
 .carousel{
     display: flex;
     align-items: center;
-    width: 100%;
-}
-
-.carousel-pic{
-    width: 94%;
 }
 
 button{
-    height: 50px;
+    border-width: 0;
+}
+
+#homepage-carousel{
+    width: 100%;
+}
+
+#homepage-carousel button{
+    background-color:rgb(194, 32, 32);
+}
+
+#homepage-carousel button:hover{
+    background-color:rgb(192, 102, 102);
+}
+
+#homepage-carousel .carousel-pic{
+    width: 94%;
+}
+
+#homepage-carousel button{
+    height: 100px;
     width: 3%;
 }
