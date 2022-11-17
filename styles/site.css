@@ -129,6 +129,15 @@ button{
     right: 0;
 }
 
+footer{
+    color: #000000;
+    background-color:rgb(194, 32, 32);
+    padding: 1em;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
 @media (max-width: 754px){
 
     .wide-nav{
