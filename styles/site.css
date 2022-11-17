@@ -60,3 +60,8 @@ button{
     height: 50px;
     width: 3%;
 }
+
+.accordion-btn {
+    width: 100%;
+    text-align: center;
+}
