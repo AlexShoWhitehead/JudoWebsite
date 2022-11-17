@@ -538,11 +538,11 @@ The difference between sketch 1 and 2 in narrow home page (index.html) is that i
 
 **Narrow (Mobile) Design:**
 
-![index html narrow sketch2](home-narrow-2.PNG)
-![team html narrow sketch2](team-narrow-2.PNG)
-![judo html narrow sketch2](about-narrow-2.PNG)
-![contact html narrow sketch2](contact-narrow-2.PNG)
 
+![index html narrow final sketch](home-narrow-final.PNG)
+![team html narrow final sketch](team-narrow-final.PNG)
+![judo html narrow final sketch](judo-narrow-final.PNG)
+![contact html narrow final sketch](contact-narrow-final.PNG)
 
 **Wide (Wide) Design:**
 
@@ -550,7 +550,6 @@ The difference between sketch 1 and 2 in narrow home page (index.html) is that i
 ![team html wide final sketch](team-wide-final.jpg)
 ![judo html wide final sketch](judo-wide-final.jpg)
 ![contact html wide final sketch](contact-wide-final.jpg)
-
 
 
 
