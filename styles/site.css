@@ -85,3 +85,8 @@ button{
     padding-left: 10px;
     padding-right: 10px;
 }
+
+.other-info {
+    display: flex;
+    flex-direction: row;
+}
