@@ -139,4 +139,12 @@ button{
         display:contents;
     }
 
+    .top{
+        display: flex;
+        height: 150px;
+    }
+
+    .top img{
+        width: auto;
+    }
 }
