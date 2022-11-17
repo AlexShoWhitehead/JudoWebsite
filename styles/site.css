@@ -16,7 +16,7 @@ h2 {
 }
 
 iframe {
-    width: 800px;
+    width: 60vw;
     height: 100vh;
     margin-left: 10px;
 }
@@ -68,6 +68,7 @@ a{
 
 button{
     border-width: 0;
+    cursor: pointer;
 }
 
 #homepage-carousel, #judo-carousel{
@@ -100,13 +101,13 @@ button{
 .bio-section {
     display: flex;
     flex-direction: row;
-    width: 1000px;
+    width: 60vw;
     margin-left: auto;
     margin-right: auto;
 }
 
 .person {
-    width: 600px;
+    width: 20vw;
     border: 2px solid black;
     text-align: center;
     padding-left: 10px;
@@ -138,9 +139,14 @@ aside{
 }
 
 .how-to-join {
-    width: 600px;
+    width: 35vw;
     position: absolute;
-    right: 0;
+    right: 10px;
+    top: 40vh;
+}
+
+.history {
+    margin: 10px;
 }
 
 footer{
@@ -175,5 +181,33 @@ footer{
 
     aside{
         width: auto;
+    }
+
+    iframe {
+        width: 94%;
+    }
+
+    .how-to-join{
+        all: revert;
+        text-align: center;
+    }
+
+    .contact-main-box{
+        flex-direction: column;
+    }
+
+    .bio-section {
+        all:revert;
+        flex-direction: column;
+        width: 94vw;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .person {
+        padding-left: 0;
+        padding-right: 0;
+        width: 94vw;
+
     }
 }
