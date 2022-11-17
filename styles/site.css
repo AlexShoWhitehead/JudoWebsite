@@ -16,7 +16,7 @@ h2 {
 }
 
 iframe {
-    width: 60vw;
+    width: 800px;
     height: 100vh;
     margin-left: 10px;
 }
@@ -57,7 +57,6 @@ a{
     flex-direction: column;
 }
 
-
 .hide{
     display: none !important;
 }
@@ -69,7 +68,6 @@ a{
 
 button{
     border-width: 0;
-    cursor: pointer;
 }
 
 #homepage-carousel{
@@ -96,19 +94,18 @@ button{
 .accordion-btn {
     width: 100%;
     text-align: center;
-    font-size: 20px;
 }
 
 .bio-section {
     display: flex;
     flex-direction: row;
-    width: 60vw;
+    width: 1000px;
     margin-left: auto;
     margin-right: auto;
 }
 
 .person {
-    width: 20vw;
+    width: 600px;
     border: 2px solid black;
     text-align: center;
     padding-left: 10px;
@@ -120,25 +117,22 @@ button{
     flex-direction: row;
 }
 
+.club-goal{
+    padding: 20px;
+}
+.updates-dates-and-times{
+    padding: 10px;
+}
+
 .contact-main-box {
     display:flex;
     flex-direction: row;
 }
 
 .how-to-join {
-    width: 35vw;
+    width: 600px;
     position: absolute;
-    right: 10px;
-    top: 50vh;
-}
-
-.club-goal {
-    width: 60vw;
-}
-
-.club-goal, .updates-dates-and-times {
-    text-align: center;
-    margin: 10px;
+    right: 0;
 }
 
 footer{
@@ -151,7 +145,6 @@ footer{
 }
 
 @media (max-width: 754px){
-
     .wide-nav{
         display:none;
     }
