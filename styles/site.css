@@ -15,6 +15,12 @@ h2 {
     margin-right: 90px;
 }
 
+iframe {
+    width: 800px;
+    height: 100vh;
+    margin-left: 10px;
+}
+
 nav{
     display: flex;
     align-items: center;
@@ -105,4 +111,15 @@ button{
 .other-info {
     display: flex;
     flex-direction: row;
+}
+
+.contact-main-box {
+    display:flex;
+    flex-direction: row;
+}
+
+.how-to-join {
+    width: 600px;
+    position: absolute;
+    right: 0;
 }
