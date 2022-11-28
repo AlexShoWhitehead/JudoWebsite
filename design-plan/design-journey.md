@@ -603,7 +603,7 @@ The client overall liked our idea and wants us to continue with the design. Ther
   - Confused as to why there were two carousels
   - Talked about having a carousel solely about images to look cool on the index and images for fun on the judo page
   - Thinks that the home page will look a lot more modern and cool than previously
-  - Thinks that the overall lyout is cool and agrees that this is the best way to go
+  - Thinks that the overall layout is cool and agrees that this is the best way to go
   - Asked for any extra critiques or feedback to add to the site
   - Stated could use some videos maybe or gifs for aesthetics
   - Discussed adding videos to the site, decided having the carousel would be more useful and not over the top
