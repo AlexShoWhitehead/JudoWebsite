@@ -34,3 +34,7 @@ $(".next-button").click(function() {
   $(".prev-button").click(function() {
     prevSlide();
   });
+
+setInterval(function() {
+    nextSlide();
+}, 6000);

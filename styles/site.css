@@ -7,10 +7,19 @@ h2 {
     text-align: center;
 }
 
+.prev-button, .next-button {
+    position: absolute;
+    top:50%;
+}
+
+.next-button{
+    right: 0%;
+}
+
 .top{
     display: flex;
     height: 150px;
-    justify-content:space-between;
+    justify-content: center;
     margin-left: 90px;
     margin-right: 90px;
 }
@@ -93,7 +102,12 @@ button{
 }
 
 #homepage-carousel .carousel-pic, #judo-carousel .carousel-pic{
-    width: 94%;
+    width: 100%;
+}
+
+#homepage-carousel, #judo-carousel{
+    max-height: 500px;
+    overflow: hidden;
 }
 
 #homepage-carousel button, #judo-carousel button{
@@ -130,17 +144,16 @@ button{
     margin: 50px;
 }
 
-aside{
-    width: 180px;
-}
-
 .club-goal{
-    padding: 20px;
     margin-right: 40px;
+    max-width: 50%;
+    padding: 30px;
 }
 
 .updates-dates-and-times{
-    padding: 10px;
+    width: 20%;
+    position: relative;
+    left: 200px;
 }
 
 .contact-main-box {
@@ -156,7 +169,14 @@ aside{
 }
 
 .history {
-    margin: 10px;
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+
+}
+
+.links ul {
+    list-style-type: none;
 }
 
 footer{
@@ -166,6 +186,7 @@ footer{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    position: relative;
 
 }
 
@@ -174,6 +195,15 @@ a {
 }
 
 @media (max-width: 600px){
+    .prev-button, .next-button {
+        position: absolute;
+        top:30%;
+    }
+
+    .carousel-pic {
+        height: 250px;
+    }
+
     .wide-nav{
         display:none;
     }
@@ -196,13 +226,10 @@ a {
     .top{
         display: flex;
         height: 150px;
+        text-align: center;
     }
 
     .top img{
-        width: auto;
-    }
-
-    aside{
         width: auto;
     }
 
@@ -212,7 +239,6 @@ a {
 
     .how-to-join{
         all: revert;
-        text-align: center;
     }
 
     .contact-main-box{
