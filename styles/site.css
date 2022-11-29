@@ -11,6 +11,7 @@ h2 {
     display: flex;
     height: 150px;
     justify-content:space-between;
+    align-items: center;
     margin-left: 90px;
     margin-right: 90px;
 }
@@ -174,6 +175,7 @@ a {
 }
 
 @media (max-width: 600px){
+
     .wide-nav{
         display:none;
     }
@@ -186,11 +188,26 @@ a {
         all: revert;
         text-align: center;
         font-size: 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 2cm;
     }
 
     .dropdown p {
+        color: rgb(255, 255, 255);
         height: 11vh;
-        border: black 1px solid;
+        background-color: rgb(194, 32, 32);
+        border: 0px;
+        width: 65%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .ham-nav-text{
+        color:rgb(255, 255, 255);
     }
 
     .top{
