@@ -7,10 +7,10 @@ h2 {
     text-align: center;
 }
 
-.joining {
+/* .joining {
     margin-bottom: 50px;
     font-size: 30px;
-}
+} */
 
 .navb a, .this-navb a {
     text-decoration: none;
@@ -210,32 +210,32 @@ button{
     margin-left: 50px;
 }
 
-.contact-main-box {
+/* .contact-main-box {
     display:flex;
     flex-direction: row;
-}
+} */
 
-iframe {
+/* iframe {
     width: 40vw;
     height: 100vh;
     margin-left: 10px;
-}
+} */
 
-.how-to-join {
+/* .how-to-join {
     width: 60%;
     padding-left:50px;
     padding-top: 100px;
     padding-right: 50px;
     background-color: rgb(251, 239, 239);
-}
+} */
 
-.how-to-join h3 {
+/* .how-to-join h3 {
     margin-bottom: 20px;
 }
 
 .how-to-join dd {
     font-style: italic;
-}
+} */
 
 .history {
     margin-top: 20px;
@@ -269,15 +269,15 @@ footer p {
 
 @media (max-width: 600px){
 
-    iframe {
+    /* iframe {
         width: 94%;
-    }
+    } */
 
-    .how-to-join{
+    /* .how-to-join{
         all: revert;
         padding: 10px;
         background-color: rgb(251, 239, 239);
-    }
+    } */
 
     .contact-main-box{
         flex-direction: column;
@@ -316,12 +316,11 @@ footer p {
 
     .dropdown p {
         color: rgb(255, 255, 255);
-        height: 11vh;
         background-color: rgb(194, 32, 32);
         border-bottom: black 2px solid;
         margin: 0;
         width: 100%;
-        height: 14.5vh;
+        height: 19.3vh;
         display: flex;
         justify-content: center;
         align-items: center;
