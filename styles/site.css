@@ -181,12 +181,14 @@ nav{
 
 #homepage-carousel .carousel-pic, #judo-carousel .carousel-pic{
     width: 100%;
+    height: inherit;
 }
 
 #homepage-carousel, #judo-carousel{
     width: 100%;
     max-height: 500px;
     overflow: hidden;
+    transition: height 2s ease-out;
 }
 
 #homepage-carousel button, #judo-carousel button{
@@ -378,11 +380,8 @@ footer p {
     }
 
     .carousel {
-        max-height: 250px;
-    }
-
-    .carousel-pic{
-        height: 250px;
+        height: 300px;
+        transition: height 2s ease-out;
     }
 
     .wide-nav{
