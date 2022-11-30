@@ -620,11 +620,11 @@ The client overall liked our idea and wants us to continue with the design. Ther
 > These must be actual user testing tasks.
 > **Tasks are not questions!**
 
-1. TODO: task 1
+1. Find how often the club meets and when usually is the club meeting
 
-2. TODO: task 2
+2. Find the requirement to join
 
-3. TODO: task 3
+3. Learn about the history of the Judo and the club.
 
 TODO: add more tasks if necessary (a good rule of thumb is a task for every user goal)
 
@@ -634,20 +634,20 @@ TODO: add more tasks if necessary (a good rule of thumb is a task for every user
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
 
-    TODO: tell us about the participant
+    She is a Cornell student, Junior, heard about and is interested in but not fimilar about Judo.
 
 
 2. Does the user belong to your audience of the site?
 
     > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
 
-    TODO: (Yes / No)
+    Yes. She is a Cornell student who is interested in learning about about Judo and the Judo Club.
 
 
 ### Participant 1 -- Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test.
 
-TODO: participant user test notes
+Three taks were completed sucessfully. The navigation bar and information sorting was designed well and helpful. She is interested in joining the club.
 
 
 ### Participant 2 (Final Submission)
