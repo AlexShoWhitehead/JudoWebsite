@@ -1,43 +1,53 @@
+/*Sets the body to have no margin and sets font*/
 body{
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
 }
 
+/*Sets all h2 to be centered*/
 h2 {
     text-align: center;
 }
 
-.joining {
-    margin-bottom: 50px;
-    font-size: 30px;
+/*Sets link color*/
+a{
+    color: rgb(0, 0, 0);
 }
 
-.navb a, .this-navb a {
-    text-decoration: none;
+/*Ensures content is shown when necessary*/
+.content{
+    all: revert;
 }
 
-/*Source: shadow and transform snippets taken from the Mozilla Firefox developer site*/
-.carousel h1 {
-    position: absolute;
-    text-align: center;
-    left: 50%;
-    transform: translateX(-50%);
-    text-shadow: 2px 2px 1px rgb(194, 32, 32);
-    color: white;
-    font-size: 7vw;
-    margin: 0;
+/*Sets button borders and cursor*/
+button{
+    border-width: 0;
+    cursor: pointer;
 }
 
-.prev-button, .next-button {
-    position: absolute;
+/*Hides elements with this class*/
+.hide{
+    display: none !important;
+}
+
+/*Creates footer decorations and positioning*/
+footer{
+    color: #000000;
+    background-color:rgb(194, 32, 32);
+    padding: 1em;
+    display: flex;
+    justify-content: space-between;
     align-items: center;
-    transition: 0.4s;
+    position: relative;
 }
 
-.next-button{
-    right: 0%;
+/*Sets footer text positioning*/
+footer p {
+    margin-right: 30px;
 }
 
+/* TOP AND NAV BAR */
+/*Sets the positioning of the top bar (which has the logo and nav)*/
 .top{
     display: flex;
     height: 150px;
@@ -47,8 +57,8 @@ h2 {
     margin-right: 90px;
 }
 
-.history h2 {
-    font-size: 30px;
+.navb a, .this-navb a {
+    text-decoration: none;
 }
 
 nav{
@@ -56,26 +66,16 @@ nav{
     align-items: center;
 }
 
-.hamburger{
+/*Makes the hamburger/dropdown class base to be invisible*/
+.hamburger, .dropdown{
     display: none;
-}
-
-.content{
-    all: revert;
-}
-
-.dropdown {
-    display: none;
-}
-
-a{
-    color: rgb(0, 0, 0);
 }
 
 .this-navb-text{
     color: rgb(255, 255, 255);
 }
 
+/*Sets all nav link positioning*/
 .navb, .this-navb{
     display: flex;
     justify-content: center;
@@ -87,7 +87,7 @@ a{
     font-size: 18px;
 }
 
-.navb:hover{
+.navb:hover, .dropdown p:hover{
     background-color: rgb(251, 239, 239);
 }
 
@@ -96,9 +96,31 @@ a{
     display: flex;
     flex-direction: column;
 }
+/* TOP AND NAV BAR */
 
-.hide{
-    display: none !important;
+/* CAROUSEL CSS */
+/*Source: shadow and transform code taken from the Mozilla Firefox developer site*/
+/*Centers the main page header and sets decorations*/
+.carousel h1 {
+    position: absolute;
+    text-align: center;
+    left: 50%;
+    transform: translateX(-50%);
+    text-shadow: 2px 2px 1px rgb(194, 32, 32);
+    color: white;
+    font-size: 7vw;
+    margin: 0;
+}
+
+/*Sets the positoning of the carousel buttons*/
+.prev-button, .next-button {
+    position: absolute;
+    align-items: center;
+    transition: 0.4s;
+}
+
+.next-button{
+    right: 0%;
 }
 
 .carousel{
@@ -106,17 +128,14 @@ a{
     align-items: center;
 }
 
-button{
-    border-width: 0;
-    cursor: pointer;
-}
-
 /*Source: Filter element from the Mozilla Firefox Developer Website*/
+/*Makes carousel images darker*/
 #homepage-carousel .carousel-pic{
     opacity: .8;
     filter: brightness(40%);
 }
 
+/*Below sets button decorations*/
 #homepage-carousel button, #judo-carousel button{
     background-color:rgb(194, 32, 32);
 }
@@ -139,7 +158,10 @@ button{
     height: 100px;
     width: 3%;
 }
+/* CAROUSEL CSS */
 
+/* ACCORDION CSS */
+/*Sets accordion decorations*/
 .accordion-btn {
     background-color: rgb(194, 190, 190);
     cursor: pointer;
@@ -151,12 +173,14 @@ button{
     border-bottom: 2px black solid;
 }
 
+/*Sets basic accordion btn content*/
 .accordion-btn:after {
     content: '\21E9';
 }
 
-.faqs {
-    background-color: rgb(236, 232, 232);
+/*Sets accordion button content when it is open*/
+.active:after {
+    content: "\21E7";
 }
 
 .acc-dropd {
@@ -165,30 +189,17 @@ button{
     margin-bottom: 0px;
     padding-bottom: 10px;
 }
+/* ACCORDION CSS */
 
-.bio-section {
-    display: flex;
-    flex-direction: row;
-    width: 60vw;
-    margin-left: auto;
-    margin-right: auto;
-}
 
-.person {
-    width: 20vw;
-    border: 2px solid black;
-    text-align: center;
-    padding-left: 10px;
-    padding-right: 10px;
-    margin: 10px;
-}
-
+/* INDEX PAGE */
 .other-info {
     display: flex;
     flex-direction: row;
     background-color: #ffffff;
 }
 
+/*Sets goal positioning*/
 .club-goal{
     max-width: 60%;
     padding: 50px;
@@ -200,6 +211,7 @@ button{
     max-width: 85%;
 }
 
+/*Sets aside positioning*/
 .updates-dates-and-times{
     padding: 50px;
     background-color: rgb(251, 239, 239);
@@ -209,16 +221,62 @@ button{
     max-width: 60%;
     margin-left: 50px;
 }
+/* INDEX PAGE */
 
-.contact-main-box {
-    display:flex;
+/* ABOUT TEAM PAGE */
+/*Centers biographies*/
+.bio-section {
+    display: flex;
     flex-direction: row;
+    width: 60vw;
+    margin-left: auto;
+    margin-right: auto;
 }
 
+/*Sets individual positionings of the people*/
+.person {
+    width: 20vw;
+    border: 2px solid black;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 10px;
+}
+/* ABOUT TEAM PAGE */
+
+/* ABOUT JUDO PAGE */
+.history {
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.links {
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.history h2 {
+    font-size: 30px;
+}
+
+.faqs {
+    background-color: rgb(236, 232, 232);
+}
+/* ABOUT JUDO PAGE */
+
+/* CONTACT PAGE */
+/*Sets PDF decoration and positioning*/
 iframe {
     width: 40vw;
     height: 100vh;
     margin-left: 10px;
+}
+
+.joining {
+    margin-bottom: 50px;
+    font-size: 30px;
 }
 
 .how-to-join {
@@ -237,42 +295,20 @@ iframe {
     font-style: italic;
 }
 
-.history {
-    margin-top: 20px;
-    margin-left: 50px;
-    margin-right: 50px;
+.contact-main-box {
+    display:flex;
+    flex-direction: row;
 }
-
-.links {
-    margin-top: 20px;
-    margin-left: 50px;
-    margin-right: 50px;
-}
-
-footer{
-    color: #000000;
-    background-color:rgb(194, 32, 32);
-    padding: 1em;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    position: relative;
-}
-
-footer p {
-    margin-right: 30px;
-}
-
-.active:after {
-    content: "\21E7";
-}
+/* CONTACT PAGE */
 
 @media (max-width: 600px){
 
+    /*Sets PDF width*/
     iframe {
         width: 94%;
     }
 
+    /*Sets contact text positioning*/
     .how-to-join{
         all: revert;
         padding: 10px;
@@ -281,6 +317,10 @@ footer p {
 
     .contact-main-box{
         flex-direction: column;
+    }
+
+    .carousel {
+        max-height: 250px;
     }
 
     .carousel-pic{
@@ -327,7 +367,7 @@ footer p {
     }
 
     .ham-nav-text{
-        color:rgb(255, 255, 255);
+        color:black;
     }
 
     .top{
@@ -379,5 +419,16 @@ footer p {
 
     .accordion-btn {
         font-size: 18px;
+    }
+}
+
+/*Removes transitions on user request*/
+@media(prefers-reduced-motion:reduce) {
+    .prev-button, .next-button {
+        transition: none;
+    }
+
+    .accordion-btn {
+        transition: none;
     }
 }

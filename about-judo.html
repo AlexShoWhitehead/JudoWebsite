@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
+    <!--Head Element sets site title and style to site.css-->
     <head>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -10,6 +11,7 @@
     </head>
 
     <body>
+        <!--top division contains the nav bar and the club logo-->
         <div class="top">
             <!--Source: Cornell Judo Club-->
             <img class="logo" src="images/cornell_judo.jpg" alt ="logo">
@@ -19,20 +21,23 @@
                 <div class="this-navb"><a class="this-navb-text" href="about-judo.html">About Judo</a></div>
                 <div class="navb"><a href="contact.html">Contact</a></div>
             </nav>
+            <!--Buttons below create the hamburger menu when the site is in narrow view-->
             <!--Image Source: https://freeicons.io/test/hamburger-menu-icon-11554-->
             <button id="burger" class="hamburger"><img src="images/hamburger_icon.png" alt="="></button>
             <!--Image Source: https://www.iconfinder.com/icons/6049343/cancel_close_cross_delete_menu_icon-->
             <button class="hamburger hide" id="closeburger"><img src="images/closed.png" alt="X"></button>
         </div>
+        <!--Menu that appears when the hamburger menu icon is clicked-->
         <div class="dropdown hide">
             <p><a href="index.html">Home</a></p>
             <p><a href="about-team.html">Team</a></p>
             <p><a href="about-judo.html">About Judo</a></p>
             <p><a href="contact.html">Contact</a></p>
         </div>
-
+        <!--Page content that is hidden when hamburger menu expands-->
         <div class="content">
             <div class="about-judo-main-box">
+                <!--About judo page carousel, inspiration source: class-->
                 <div class="carousel" id="judo-carousel">
                     <button class="prev-button"> &#60; </button>
                     <!--Source: Cornell Judo Club-->
@@ -50,6 +55,7 @@
                     <button class="next-button"> &#62; </button>
                 </div>
             </div>
+            <!--History of the sport of judo-->
             <div class="history">
                 <!--Source: Cornell Judo Club-->
                 <h2>History</h2>
@@ -57,6 +63,7 @@
                     Judo is a combat sport that focuses not just on physical strength but on technique and discipline. It is a sport involving both throwing as well as ground techniques and submissions. Judo originated in Japan when the founder Jigaro Kano attempted to turn the martial arts of the samurai into something that can be practiced safely. Judo does not involve any kind of striking or weapons. Instead, judo translates balance and power into throwing techniques. Even so, judo requires time, effort, and energy to master. Judo is used around the world not just as a sport or form of discipline but also as professional training for the army and police forces.
                 </p>
             </div>
+            <!--Links to other judo sites-->
             <div class="links">
                 <h2>Other Judo Links</h2>
                 <!--Source: The USA Judo Website-->
@@ -67,6 +74,7 @@
                 <p><a href="https://www.usjf.com/">The US Judo Federation</a></p>
             </div>
         </div>
+        <!--Page footer with club logo-->
         <footer>
             <!--Source: Cornell Judo Club-->
             <img class="logo" src="images/cornell_judo.jpg" alt ="logo">

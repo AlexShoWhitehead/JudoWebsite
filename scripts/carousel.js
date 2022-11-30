@@ -1,3 +1,5 @@
+// Code source and inspiration: Class and snippets
+/*Sets the SLIDES constant to be the carousel images */
 const SLIDES = $(".carousel-pic");
 
 /* See "show next slide snippet" to use */
@@ -27,14 +29,17 @@ function showSlide(num) {
   currentSlide.removeClass("hide");
 }
 
+/*If the next button is clicked the next slide is shown*/
 $(".next-button").click(function() {
     nextSlide();
   });
 
-  $(".prev-button").click(function() {
+/*If the previous button is clicked the previous slide is shown*/
+$(".prev-button").click(function() {
     prevSlide();
-  });
+});
 
+/*Evey six seconds move to the next slide*/
 setInterval(function() {
     nextSlide();
 }, 6000);

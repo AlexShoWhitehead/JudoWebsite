@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
+    <!--Head Element sets site title and style to site.css-->
     <head>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -10,6 +11,7 @@
     </head>
 
     <body>
+        <!--top division contains the nav bar and the club logo-->
         <div class="top">
             <!--Source: Cornell Judo Club-->
             <img class="logo" src="images/cornell_judo.jpg" alt ="logo">
@@ -19,23 +21,28 @@
                 <div class="navb"><a href="about-judo.html">About Judo</a></div>
                 <div class="navb"><a href="contact.html">Contact</a></div>
             </nav>
+            <!--Buttons below create the hamburger menu when the site is in narrow view-->
             <!--Image Source: https://freeicons.io/test/hamburger-menu-icon-11554-->
             <button id="burger" class="hamburger"><img src="images/hamburger_icon.png" alt="="></button>
             <!--Image Source: https://www.iconfinder.com/icons/6049343/cancel_close_cross_delete_menu_icon-->
             <button class="hamburger hide" id="closeburger"><img src="images/closed.png" alt="X"></button>
         </div>
+        <!--Menu that appears when the hamburger menu icon is clicked-->
         <div class="dropdown hide">
             <p><a href="index.html">Home</a></p>
             <p><a href="about-team.html">Team</a></p>
             <p><a href="about-judo.html">About Judo</a></p>
             <p><a href="contact.html">Contact</a></p>
         </div>
+        <!--Content that is hidden when hamburger menu is expanded-->
         <div class="content">
             <div class="about-team-main-box">
+                <!--Cornell Judo Club members-->
                 <h2>2022-2023 Members</h2>
                 <!--Source: Cornell Judo Club-->
                 <div class="bios">
                     <div class="bio-section">
+                        <!--Each person class contains a name and a short description of the person-->
                         <div class="person">
                             <p>Bruce Cota</p>
                             <p>
@@ -76,8 +83,10 @@
                         </div>
                     </div>
                 </div>
+                <!--FAQS about the Judo club-->
                 <h2>F.A.Q</h2>
                 <!--Source: Cornell Judo Club-->
+                <!--Creates a 5 button accordion with dropdowns for each button-->
                 <div class="faqs">
                     <div>
                         <button id="accordion_one" class="accordion-btn">Who is allowed to join?</button>
@@ -112,7 +121,7 @@
                 </div>
             </div>
         </div>
-
+        <!--Footer including the club logo-->
         <footer>
             <!--Source: Cornell Judo Club-->
             <img class="logo" src="images/cornell_judo.jpg" alt ="logo">
