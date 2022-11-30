@@ -142,12 +142,13 @@ button{
 }
 
 .accordion-btn {
-    background-color: #e45a5a;
+    background-color: rgb(194, 190, 190);
     cursor: pointer;
     width: 100%;
     text-align: center;
     transition: 0.4s;
-    font-size: 25px;
+    font-size: 20px;
+    font-weight: lighter;
     border-bottom: 2px black solid;
 }
 
@@ -156,7 +157,7 @@ button{
 }
 
 .faqs {
-    background-color: rgb(249, 218, 218);
+    background-color: rgb(236, 232, 232);
 }
 
 .acc-dropd {
