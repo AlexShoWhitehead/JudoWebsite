@@ -655,21 +655,20 @@ Three taks were completed sucessfully. The navigation bar and information sortin
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
 
-    TODO: tell us about the participant
+    Jack. Cornell sophomore student. Interested in the Janpanese culture and want to join Judo club.
 
 
 2. Does the user belong to your audience of the site?
 
     > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
 
-    TODO: (Yes / No)
+    Yes. He meet the standard of being cornell student / want to join the judo club.
 
 
 ### Participant 2 -- Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test.
 
-TODO: participant user test notes
-
+    All tasks completed. He thinks the contents in each page is reasonablely distributed and easy to navigate between pages for fast infomation access. The only suggestion he came up is that some contents in the FAQ section in team page should be placed elsewhere.
 
 ### Participant 3 (Final Submission)
 > Using your notes from above, describe your user by answering the questions below.
