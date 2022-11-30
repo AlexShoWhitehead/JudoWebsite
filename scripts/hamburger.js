@@ -9,15 +9,14 @@ $(".hamburger").click(function() {
     }
 })
 
-/*Source: Seen on Mozilla Firefox Documentation*/
-const btn = document.getElementById('burger');
-$(".hamburger").click(function() {
-    if(btn.textContent == '=') {
-        btn.textContent = 'X';
-    }
-    else {
-        btn.textContent = '=';
-    }
+$("#burger").click(function() {
+    $("#burger").addClass("hide");
+    $("#closeburger").removeClass("hide");
+})
+
+$("#closeburger").click(function() {
+    $("#burger").removeClass("hide");
+    $("#closeburger").addClass("hide");
 })
 
 $(window).resize(function() {

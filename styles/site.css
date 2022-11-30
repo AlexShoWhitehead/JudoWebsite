@@ -57,8 +57,7 @@ nav{
 }
 
 .hamburger{
-    display: none !important;
-    font-size: 20px;
+    display: none;
 }
 
 .content{
@@ -300,7 +299,8 @@ footer p {
     }
 
     .hamburger{
-        display:contents !important;
+        display:contents;
+        height: 100px;
     }
 
     .dropdown {
