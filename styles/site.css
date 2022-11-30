@@ -267,13 +267,6 @@ footer p {
     content: "\21E7";
 }
 
-#burger img {
-    display: flex;
-    height: 130px;
-    width: 130px;
-}
-
-
 @media (max-width: 600px){
 
     iframe {
@@ -300,7 +293,13 @@ footer p {
 
     .hamburger{
         display:contents;
-        height: 100px;
+    }
+
+    #burger img, #closeburger img {
+        height: 50px;
+        width: auto;
+        position: absolute;
+        right: 20px;
     }
 
     .dropdown {
@@ -322,6 +321,7 @@ footer p {
         border-bottom: black 2px solid;
         margin: 0;
         width: 100%;
+        height: 14.5vh;
         display: flex;
         justify-content: center;
         align-items: center;
@@ -334,10 +334,13 @@ footer p {
     .top{
         display: flex;
         height: 150px;
-        text-align: center;
+        margin-left: 10px;
+        margin-right: 10px;
+        justify-content: revert;
     }
 
     .top img{
+        all: revert;
         width: auto;
     }
 

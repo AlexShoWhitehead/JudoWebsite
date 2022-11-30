@@ -24,4 +24,6 @@ $(window).resize(function() {
         $(".dropdown").addClass("hide");
         $(".content").removeClass("hide");
     }
+    $("#burger").removeClass("hide");
+    $("#closeburger").addClass("hide");
 })
