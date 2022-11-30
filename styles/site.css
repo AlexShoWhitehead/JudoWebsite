@@ -267,6 +267,13 @@ footer p {
     content: "\21E7";
 }
 
+#burger img {
+    display: flex;
+    height: 130px;
+    width: 130px;
+}
+
+
 @media (max-width: 600px){
 
     iframe {
