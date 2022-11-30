@@ -21,8 +21,9 @@ a{
 
 /*Sets button borders and cursor*/
 button{
-    border-width: 0;
+    border-width: 1px;
     cursor: pointer;
+    font-family: Impact;
 }
 
 /*Hides elements with this class*/
