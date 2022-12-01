@@ -21,7 +21,9 @@ a{
 
 /*Sets button borders and cursor*/
 button{
-    border-width: 1px;
+    min-width: .8cm;
+    border-radius: 4px;
+    border-width: 0;
     cursor: pointer;
     font-family: Impact;
 }
@@ -45,6 +47,7 @@ footer{
 /*Sets footer text positioning*/
 footer p {
     margin-right: 30px;
+    margin-left: 10px;
 }
 
 /* TOP AND NAV BAR */
@@ -357,6 +360,7 @@ footer{
     color: #000000;
     background-color:rgb(194, 32, 32);
     padding: 1em;
+
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -371,7 +375,16 @@ footer p {
     content: "\21E7";
 }
 
+p{
+    font-size: medium;
+}
+
 @media (max-width: 600px){
+
+    /*larger text only for mobile*/
+    p{
+        font-size: larger;
+    }
 
     /*Sets PDF width*/
     iframe {
