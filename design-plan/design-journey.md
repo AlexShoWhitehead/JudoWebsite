@@ -86,9 +86,9 @@ Major Pages:
 
     The three favorite competitors or similar organizations are Pedro's Judo Center, United States Judo Association and Kodokan Judo. Because the website does a good job on showing judo culture and engaging with the community
 
-    - ![Pedros](https://pedrosjudo.com/)
-    - ![USJA](https://www.usja.net/)
-    - ![Kodokan](http://kodokanjudoinstitute.org/en/doctrine/)
+    - Pedros: https://pedrosjudo.com/
+    - USJA: https://www.usja.net/
+    - Kodokan: http://kodokanjudoinstitute.org/en/doctrine/
 
 
 ### Client Website (Milestone 1)
