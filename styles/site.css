@@ -296,15 +296,19 @@ nav{
 
 /* ABOUT JUDO PAGE */
 .history {
-    margin-top: 20px;
-    margin-left: 50px;
-    margin-right: 50px;
+
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center;
 }
 
 .links {
-    margin-top: 20px;
-    margin-left: 50px;
-    margin-right: 50px;
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 100px;
+    text-align: center;
 }
 
 .history h2 {
@@ -350,11 +354,7 @@ iframe {
     flex-direction: row;
 }
 
-.links {
-    margin-top: 20px;
-    margin-left: 50px;
-    margin-right: 50px;
-}
+
 
 footer{
     color: #000000;
