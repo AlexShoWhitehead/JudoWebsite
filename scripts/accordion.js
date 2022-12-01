@@ -98,3 +98,23 @@ $("#accordion_five").click(function() {
     }
 })
 // Accordion Five JS
+
+// Accordion Six JS
+$("#accordion_six").click(function() {
+    if ($("#dropd_six").hasClass("hide")) {
+        $("#dropd_six").removeClass("hide");
+    }
+    else {
+        $("#dropd_six").addClass("hide");
+    }
+})
+
+$("#accordion_six").click(function() {
+    if ($("#accordion_six").hasClass("active")) {
+        $("#accordion_six").removeClass("active");
+    }
+    else {
+        $("#accordion_six").addClass("active");
+    }
+})
+// Accordion Six JS

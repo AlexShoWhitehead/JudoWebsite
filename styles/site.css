@@ -225,6 +225,8 @@ nav{
     margin-right: 10px;
     margin-bottom: 0px;
     padding-bottom: 10px;
+    font-size: 20px;
+    font-weight: lighter;
 }
 /* ACCORDION CSS */
 
@@ -234,6 +236,10 @@ nav{
     display: flex;
     flex-direction: row;
     background-color: #ffffff;
+}
+
+.club-goal h3 {
+    font-size: 30px;
 }
 
 /*Sets goal positioning*/
@@ -252,6 +258,10 @@ nav{
 .updates-dates-and-times{
     padding: 50px;
     background-color: rgb(251, 239, 239);
+}
+
+.updates-dates-and-times h3 {
+    font-size: 20px;
 }
 
 .updates-dates-and-times p, .updates-dates-and-times h3 {
@@ -486,6 +496,10 @@ footer p {
     }
 
     .accordion-btn {
+        transition: none;
+    }
+
+    #homepage-carousel, #judo-carousel{
         transition: none;
     }
 }

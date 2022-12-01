@@ -466,6 +466,20 @@ The organization of the content fits the goals of the user well and groups like 
 - Judo
 - Contact
 
+Update 1:
+
+- Home
+- Team
+- About Judo
+- Contact
+
+Update 2:
+
+- Home
+- Club
+- About Judo
+- Contact
+
 > Explain why the names of these pages make sense for your site's audience.
 
 The main goals of the audience are to learn more about the club so that they can join. These tabs make it clear what information are in what section. The about page gives all the information the user needs about the club. The contact page makes it clear how they can reach out to the club. Overall, these tabs make it clear where the content they need to complete their goals is located.
@@ -620,34 +634,29 @@ The client overall liked our idea and wants us to continue with the design. Ther
 > These must be actual user testing tasks.
 > **Tasks are not questions!**
 
-1. Find how often the club meets and when usually is the club meeting
+1. Find how often the club meets and when the club meets.
 
-2. Find the requirement to join
+2. You recently learned about the judo club through ClubFest, and would like to know if there are any prerequisites. Find any requirements to join.
 
-3. Learn about the history of the Judo and the club.
-
-TODO: add more tasks if necessary (a good rule of thumb is a task for every user goal)
-
+3. You know that the judo club exists, however are unsure if judo is right for you. Learn about the history of the Judo and the club.
 
 ### Participant 1 (Final Submission)
 > Using your notes from above, describe your user by answering the questions below.
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
 
-    She is a Cornell student, Junior, heard about and is interested in but not fimilar about Judo.
-
+    Our user is a Cornell student. Our user is female, and a Junior. She has previously heard about judo and is interested. However, this user is not fimilar with Judo.
 
 2. Does the user belong to your audience of the site?
 
     > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
 
-    Yes. She is a Cornell student who is interested in learning about about Judo and the Judo Club.
-
+    Yes. Our target audience consists of university students looking to join a club where they can have some fun and get exercise while learning a new skill. This user is a Cornell student who is interested in learning about about Judo and get moving.
 
 ### Participant 1 -- Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test.
 
-Three taks were completed sucessfully. The navigation bar and information sorting was designed well and helpful. She is interested in joining the club.
+Three tasks were completed sucessfully. The navigation bar and information sorting was designed well and helpful. She is interested in joining the club.
 
 
 ### Participant 2 (Final Submission)
@@ -655,15 +664,14 @@ Three taks were completed sucessfully. The navigation bar and information sortin
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
 
-    Jack. Cornell sophomore student. Interested in the Janpanese culture and want to join Judo club.
+    This user's name is Jack. Jack is a sophomore student at Cornell university. This user is interested in Japanese culture including Judo. As such, this user would like to learn about and potentially join the Judo club.
 
 
 2. Does the user belong to your audience of the site?
 
     > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
 
-    Yes. He meet the standard of being cornell student / want to join the judo club.
-
+    Yes. Our target audience consists of university students looking to join a club where they can have some fun and get exercise while learning a new skill. This user meets the standard of being cornell student who would like to join the judo club.
 
 ### Participant 2 -- Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test.
@@ -675,30 +683,29 @@ Three taks were completed sucessfully. The navigation bar and information sortin
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
 
-    TODO: tell us about the participant
+    This user's is a female student at Cornell University. They are from California and is currently in their junior year. This user has gone to martial arts practices in the past however not judo.
 
 
 2. Does the user belong to your audience of the site?
 
     > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
 
-    TODO: (Yes / No)
+    This user mostly fits the audience of the site. Our target audience consists of university students looking to join a club where they can have some fun and get exercise while learning a new skill. This user is a university student, however they do not have a specific interest in judo. This user does like to get exercise and has experience in joining clubs, so their experiences will be useful in adding on additional usability to the site. Furthermore, the judo club is closely related to other martial arts clubs and as such the user will provide useful insight in this way as well.
 
 
 ### Participant 3 -- Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test.
 
-TODO: participant user test notes
+- User looks at the nav and sees there is no meeting time link. User scrolls down and sees the dates and times. Thinks that the text is a bit small.
+- User looks at links and is sort of confused at which page is for the club itself. The user clicks on about judo then the page. Sees the FAX and finds the answer.
+- User goes to the about judo page. Would like to know more about what the links lead to.
 
-
-TODO: add more participants if necessary
-
+Overall this user was able to complete all of the tasks fairly easily. However, due to their feedback, some visual changes can be made.
 
 ## Website Revision Based on User Testing (Final Submission)
 > What changes did you make to your design based on user testing?
 
-TODO: explain the revisions to your website from user testing
-
+The homepage had some changes, as the updates section was moved down and the meeting times were moved up. Furthermore the header text size was increased. Furthermore, the title of the club page was changed from team to club. Finally, the about judo page links had more information added to them describing them.
 
 ## Grading (Final Submission)
 
@@ -714,4 +721,5 @@ Frank Han
 > Please cite any external resources you referenced in the creation of your project.
 > (i.e. W3Schools, StackOverflow, Mozilla, etc.)
 
-TODO: list reference resources
+- W3Schools for inspiration
+- Mozilla developer reference
