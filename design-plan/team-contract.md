@@ -78,6 +78,10 @@ Your team contract should probably include these elements. Feel free to remove o
 
     - MINIMUM by noon the day the milestone is due. If it is not done the member will be contacted and if they need help one other member who is free will assist them
 
+10. What happens if someone drops the class the day the project is due without finishing their work?
+
+    - Depending on how important the content is to the audience and client we will work on finishing it
+
 ## Using your Contract
 
 You are expected to follow your team contract. **If you are having issues (e.g. conflicts) in your team, the first thing you should do is follow the contract.** If the contract isn't working, then your team should revise it.

@@ -707,6 +707,8 @@ Overall this user was able to complete all of the tasks fairly easily. However, 
 
 The homepage had some changes, as the updates section was moved down and the meeting times were moved up. Furthermore the header text size was increased. Furthermore, the title of the club page was changed from team to club. Finally, the about judo page links had more information added to them describing them.
 
+Furthermore, although we had originally planned to have the contact page, the member which was assigned it dropped the class without telling anyone. As such, we have reincluded it after quickly finishing it once we were notified. We decided to do it as since the person dropped it is no longer their work, and furthermore the page is essential to the audience and user experience and useful for the client.
+
 ## Grading (Final Submission)
 
 ### Collaborators (Final Submission)
