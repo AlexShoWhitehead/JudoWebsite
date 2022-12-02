@@ -20,9 +20,12 @@ a{
 }
 
 /*Sets button borders and cursor*/
-button{
+button:not(.indicator){
     min-width: .8cm;
     border-radius: 4px;
+}
+
+button{
     border-width: 0;
     cursor: pointer;
     font-family: Impact;
@@ -125,6 +128,7 @@ nav{
     list-style: none;
     display: flex;
     flex-direction: row;
+    height: 3vw;
 }
 
 .indicator {
@@ -203,13 +207,13 @@ nav{
 /* ACCORDION CSS */
 /*Sets accordion decorations*/
 .accordion-btn {
-    background-color: rgb(194, 190, 190);
+    background-color: rgb(248, 206, 206);
     cursor: pointer;
     width: 100%;
     text-align: center;
+    padding-left: 50px;
     transition: 0.4s;
     font-size: 20px;
-    font-weight: lighter;
     border-bottom: 2px black solid;
 }
 
@@ -228,6 +232,7 @@ nav{
     margin-right: 10px;
     margin-bottom: 0px;
     padding-bottom: 10px;
+    padding-left: 50px;
     font-size: 20px;
     font-weight: lighter;
 }
@@ -278,18 +283,16 @@ nav{
 .bio-section {
     display: flex;
     flex-direction: row;
-    width: 60vw;
+    width: 90vw;
     margin-left: auto;
     margin-right: auto;
 }
 
 /*Sets individual positionings of the people*/
 .person {
-    width: 20vw;
+    width: 30vw;
     border: 2px solid black;
     text-align: center;
-    padding-left: 10px;
-    padding-right: 10px;
     margin: 10px;
 }
 /* ABOUT TEAM PAGE */
@@ -297,18 +300,18 @@ nav{
 /* ABOUT JUDO PAGE */
 .history {
 
-    margin-top: 100px;
-    margin-left: 100px;
-    margin-right: 100px;
-    text-align: center;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: left;
 }
 
 .links {
-    margin-top: 100px;
-    margin-left: 100px;
-    margin-right: 100px;
-    margin-bottom: 100px;
-    text-align: center;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    text-align: left;
 }
 
 .history h2 {
@@ -380,6 +383,10 @@ p{
 }
 
 @media (max-width: 600px){
+
+    .history, .links {
+        text-align: left;
+    }
 
     /*larger text only for mobile*/
     p{
@@ -478,6 +485,7 @@ p{
         border-left: 0;
         border-right: 0;
         text-align: left;
+        display: flex;
     }
 
     .other-info {
@@ -498,7 +506,7 @@ p{
     }
 
     .accordion-btn {
-        font-size: 18px;
+        font-size: 14px;
     }
 }
 
