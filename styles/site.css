@@ -295,6 +295,12 @@ nav{
     text-align: center;
     margin: 10px;
 }
+
+.person img {
+    height: 100px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
 /* ABOUT TEAM PAGE */
 
 /* ABOUT JUDO PAGE */
