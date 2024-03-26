@@ -14,19 +14,20 @@
         <!--top division contains the nav bar and the club logo-->
         <div class="top">
             <!--Source: Cornell Judo Club-->
-            <img class="logo" src="images/cornell_judo.jpg" alt ="logo">
+            <img class="logo" src="images/cornell_judo.png" alt ="logo">
             <nav class="wide-nav">
-                <div class="navb"><a href="index.html">Home</a></div>
-                <div class="this-navb"><a class="this-navb-text" href="about-team.html">Club</a></div>
-                <div class="navb"><a href="about-judo.html">About Judo</a></div>
-                <div class="navb"><a href="contact.html">Contact</a></div>
+                <a href="index.html"><div class="navb">HOME</div></a>
+                <a class="this-navb-text" href="about-team.html"><div class="this-navb" >ABOUT US</div></a>
+                <a href="contact.html"><div class="navb">CONTACT</div></a>
             </nav>
+            <div class = 'right'><a href="https://www.instagram.com/cornelljudo/"><img src="images/insta_logo.png" alt ="Instagram"></a></div>
             <!--Buttons below create the hamburger menu when the site is in narrow view-->
             <!--Image Source: https://freeicons.io/test/hamburger-menu-icon-11554-->
             <button id="burger" class="hamburger"><img src="images/hamburger_icon.png" alt="="></button>
             <!--Image Source: https://www.iconfinder.com/icons/6049343/cancel_close_cross_delete_menu_icon-->
             <button class="hamburger hide" id="closeburger"><img src="images/closed.png" alt="X"></button>
         </div>
+
         <!--Menu that appears when the hamburger menu icon is clicked-->
         <div class="dropdown hide">
             <p><a class="ham-nav-text" href="index.html">Home</a></p>
@@ -37,110 +38,51 @@
         <!--Content that is hidden when hamburger menu is expanded-->
         <div class="content">
             <div class="about-team-main-box">
-                <!--Cornell Judo Club members-->
-                <h2>2022-2023 Members</h2>
-                <!--Source: Cornell Judo Club-->
-                <div class="bios">
-                    <div class="bio-section">
-                        <!--Each person class contains a name and a short description of the person-->
-                        <div class="person">
-                            <img src="images/closed.png" alt="">
-                            <div>
-                                <h4>Bruce Cota</h4>
-                                <p>
-                                    Bruce has held the rank of Shodan for over 20 years.
-                                </p>
-                            </div>
-                        </div>
-                        <div class="person">
-                            <img src="images/closed.png" alt="">
-                            <div>
-                                <h4>Mai Cota</h4>
-                                <p>
-                                    Mai is a Shodan in judo.
-                                </p>
-                            </div>
-                        </div>
-                        <div class="person">
-                            <img src="images/closed.png" alt="">
-                            <div>
-                                <h4>David Bruk</h4>
-                                <p>
-                                    David is a Senior in the College of Engineering studying Biomedical Engineering. He has been practicing Judo for 4 years now.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="bio-section">
-                        <div class="person">
-                            <img src="images/closed.png" alt="">
-                            <div>
-                                <h4>Avni Bhalla</h4>
-                                <p>
-                                    Avni has been practicing judo on and off for many years, and is always happy to step in and help!
-                                </p>
-                            </div>
-                        </div>
-                        <div class="person">
-                            <img src="images/closed.png" alt="">
-                            <div>
-                                <h4>Diego Fernandez</h4>
-                                <p>
-                                    Diego is an international black belt.
-                                </p>
-                            </div>
-                        </div>
-                        <div class="person">
-                            <img src="images/closed.png" alt="">
-                            <div>
-                                <h4>James Whitehead</h4>
-                                <p>
-                                    Jimmy is a junior in the College of Arts and Science.
-                                </p>
-                            </div>
+                <div class="about-judo-main-box">
+                    <!--About judo page carousel, inspiration source: class-->
+                    <div class="carousel" id="judo-carousel">
+                        <button class="prev-button"> &#60; </button>
+                        <!--Source: Cornell Judo Club-->
+                        <img class="carousel-pic" src="images/judo-first.jpg" alt="" >
+                        <!--Source: Cornell Judo Club-->
+                        <img class="carousel-pic hide" src="images/judo-second.jpg" alt="" >
+                        <!--Source: Cornell Judo Club-->
+                        <img class="carousel-pic hide" src="images/judo-third.jpg" alt="" >
+                        <!--Source: Cornell Judo Club-->
+                        <img class="carousel-pic hide" src="images/judo-fourth.jpg" alt="" >
+                        <!--Source: Cornell Judo Club-->
+                        <img class="carousel-pic hide" src="images/judo-fifth.jpg" alt="" >
+                        <!--Source: Cornell Judo Club-->
+                        <img class="carousel-pic hide" src="images/judo-sixth.jpg" alt="" >
+                        <button class="next-button"> &#62; </button>
+                        <div class="indicators">
+                            <button id="indic1" class="indicator"></button>
+                            <button id="indic2" class="indicator inactive"></button>
+                            <button id="indic3" class="indicator inactive"></button>
+                            <button id="indic4" class="indicator inactive"></button>
+                            <button id="indic5" class="indicator inactive"></button>
+                            <button id="indic6" class="indicator inactive"></button>
                         </div>
                     </div>
                 </div>
                 <!--FAQS about the Judo club-->
                 <h2>F.A.Q</h2>
                 <!--Source: Cornell Judo Club-->
-                <!--Creates a 5 button accordion with dropdowns for each button-->
                 <div class="faqs">
                     <div>
-                        <button id="accordion_one" class="accordion-btn">Who is allowed to join?</button>
-                        <p id="dropd_one" class="acc-dropd hide">
-                            We welcome anyone of any skill level! We are always excited to meet new people and to teach!
-                        </p>
+                        Who is allowed to join?
+                        We welcome anyone of any skill level! We are always excited to meet new people and to teach!
                     </div>
                     <div>
-                        <button id="accordion_two" class="accordion-btn">How old is your club?</button>
-                        <p id="dropd_two" class="acc-dropd hide">
-                            At around 50 years old, we are one of the longest running judo clubs on the East Coast!
-                        </p>
+                        How can I get to the Friedman Wrestling Center?
+                        There is free parking after 5pm, or you can take any TCat headed towards the veterinary school, walk, or bike!
                     </div>
                     <div>
-                        <button id="accordion_three" class="accordion-btn">How can I get to the Friedman Wrestling Center?</button>
-                        <p id="dropd_three" class="acc-dropd hide">
-                            There is free parking after 5pm, or you can take any TCat headed towards the veterinary school, walk, or bike!
-                        </p>
+                        Do I need anything to come?
+                        NO! We ask you to sign a waiver when you show up to your first practice, but you do not need any special gear for your first few practices. Bring a friend too and have some fun!
                     </div>
                     <div>
-                        <button id="accordion_four" class="accordion-btn">What other sports are there for me to do?</button>
-                        <p id="dropd_four" class="acc-dropd hide">
-                            We work closely with the BJJ and Muay Thai clubs. If you come for judo, you are free to practice any of the three sports as we all practice together in the same building at the same time!
-                        </p>
-                    </div>
-                    <div>
-                        <button id="accordion_five" class="accordion-btn">Do I need anything to come?</button>
-                        <p id="dropd_five" class="acc-dropd hide">
-                            NO! We ask you to sign a waiver when you show up to your first practice, but you do not need any special gear for your first few practices. Bring a friend too and have some fun!
-                        </p>
-                    </div>
-                    <div>
-                        <button id="accordion_six" class="accordion-btn">How do I join?</button>
-                        <p id="dropd_six" class="acc-dropd hide">
-                            First go to our contact page! Join our CampusGroups and email list-serv, and we will see you at our next practices! Our practices are Mondays, Wednesdays, and Fridays from 7:30 to 9pm at the Friedman Wrestling Center!
-                        </p>
+                        First go to our contact page! Join our CampusGroups and email list-serv, and we will see you at our next practices! Our practices are Mondays, Wednesdays, and Fridays from 7:30 to 9pm at the Friedman Wrestling Center!
                     </div>
                 </div>
             </div>
@@ -148,13 +90,15 @@
         <!--Footer including the club logo-->
         <footer>
             <!--Source: Cornell Judo Club-->
-            <img class="logo" src="images/cornell_judo.jpg" alt ="logo">
-            <p>© 2022 Made by Blue Moose</p>
+            <img class="logo hide" src="images/cornell_judo.jpg" alt ="logo">
+            <h4>This organization is a registered student organization of Cornell University.</h4>
+            <p>© 2023</p>
         </footer>
 
         <script src="scripts/jquery-3.6.1.js"></script>
         <script src="scripts/hamburger.js"></script>
         <script src="scripts/accordion.js"></script>
+        <script src="scripts/carousel.js"> </script>
     </body>
 
 </html>

@@ -6,7 +6,7 @@
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-        <title>Contact</title>
+        <title>About Judo</title>
         <link rel="stylesheet" type="text/css" href="styles/site.css">
     </head>
 
@@ -18,9 +18,10 @@
             <nav class="wide-nav">
                 <a href="index.html"><div class="navb">HOME</div></a>
                 <a href="about-team.html"><div class="navb" >ABOUT US</div></a>
-                <a class="this-navb-text" href="contact.html"><div class="this-navb">CONTACT</div></a>
+                <a href="about-judo.html"><div class="navb">JUDO</div></a>
+                <a class="this-navb-text" href="blog.html"><div class="this-navb">BLOG</div></a>
+                <a href="contact.html"><div class="navb">CONTACT</div></a>
             </nav>
-            <div class = 'right'><a href="https://www.instagram.com/cornelljudo/"><img src="images/insta_logo.png" alt ="Instagram"></a></div>
             <!--Buttons below create the hamburger menu when the site is in narrow view-->
             <!--Image Source: https://freeicons.io/test/hamburger-menu-icon-11554-->
             <button id="burger" class="hamburger"><img src="images/hamburger_icon.png" alt="="></button>
@@ -29,24 +30,25 @@
         </div>
         <!--Menu that appears when the hamburger menu icon is clicked-->
         <div class="dropdown hide">
-            <p><a href="index.html">Home</a></p>
-            <p><a href="about-team.html">Club</a></p>
-            <p><a href="about-judo.html">About Judo</a></p>
-            <p><a href="contact.html">Contact</a></p>
+            <p><a class="ham-nav-text"  href="index.html">Home</a></p>
+            <p><a class="ham-nav-text"  href="about-team.html">Club</a></p>
+            <p><a class="ham-nav-text"  href="about-judo.html">About Judo</a></p>
+            <p><a class="ham-nav-text"  href="contact.html">Contact</a></p>
         </div>
-        <!--Content that is hidden upon hamburger menu expansion-->
-        <div class='contact-main-box'>
+        <!--Page content that is hidden when hamburger menu expands-->
+        <div class="content">
         </div>
-        <!--Footer containing the club logo-->
+        <!--Page footer with club logo-->
         <footer>
             <!--Source: Cornell Judo Club-->
             <img class="logo hide" src="images/cornell_judo.jpg" alt ="logo">
             <h4>This organization is a registered student organization of Cornell University.</h4>
-            <p>© 2023</p>
+            <p>Alex Whitehead © 2023</p>
         </footer>
 
         <script src="scripts/jquery-3.6.1.js"></script>
         <script src="scripts/hamburger.js"></script>
+        <script src="scripts/carousel.js"> </script>
     </body>
 
 </html>

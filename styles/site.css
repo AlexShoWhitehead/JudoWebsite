@@ -1,6 +1,9 @@
 /*Sets the body to have no margin and sets font*/
-body{
-    margin: 0;
+body, html{
+    margin: 0 !important;
+    padding: 0 !important;
+    width: 100% !important;
+    max-width: 100% !important;
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -47,6 +50,10 @@ footer{
     position: relative;
 }
 
+footer .img {
+    opacity: 0.5 !important;
+}
+
 /*Sets footer text positioning*/
 footer p {
     margin-right: 30px;
@@ -56,16 +63,40 @@ footer p {
 /* TOP AND NAV BAR */
 /*Sets the positioning of the top bar (which has the logo and nav)*/
 .top{
-    display: flex;
+    display:flex;
     height: 150px;
-    justify-content:center;
     align-items: center;
-    margin-left: 90px;
-    margin-right: 90px;
+    margin-left: 5%;
 }
 
-.navb a, .this-navb a {
+.top img {
+    margin-right: 30px;
+}
+
+.top a{
+    display: flex;
     text-decoration: none;
+    justify-content: center;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+    text-align: center;
+}
+
+.right {
+    position: absolute;
+    right: 5%;
+}
+
+.top nav div{
+    margin-right: 30px;
+    height: fit-content;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
 }
 
 nav{
@@ -79,27 +110,33 @@ nav{
 }
 
 .this-navb-text{
-    color: rgb(255, 255, 255);
+    color: white;
+    text-decoration: underline !important;
 }
 
 /*Sets all nav link positioning*/
 .navb, .this-navb{
     display: flex;
     justify-content: center;
-    width: 100px;
     height: 100%;
     text-align: center;
     padding-top:20px;
     padding-bottom: 20px;
     font-size: 18px;
+    padding-right: 10px;
 }
 
-.navb:hover, .dropdown p:hover{
-    background-color: rgb(251, 239, 239);
+.navb:hover{
+    color: rgb(251, 239, 239);
+}
+
+.club-goal h3 {
+    font-size: 30px !important;
 }
 
 .this-navb{
-    background-color: rgb(194, 32, 32);
+    color: rgb(194, 32, 32);
+    text-decoration: underline !important;
     display: flex;
     flex-direction: column;
 }
@@ -113,8 +150,10 @@ nav{
     text-align: center;
     left: 50%;
     transform: translateX(-50%);
-    text-shadow: 2px 2px 1px rgb(194, 32, 32);
-    color: white;
+    -webkit-text-fill-color: white;
+    -webkit-text-stroke: 3px;
+    -webkit-text-stroke-color: rgb(194, 32, 32);
+
     font-size: 7vw;
     margin: 0;
 }
@@ -132,14 +171,15 @@ nav{
 }
 
 .indicator {
+    background-color: darkgrey !important;
     padding: 10px;
     margin-left: 20px;
     margin-right: 20px;
     border-radius: 50%;
     max-height: 30px;
     max-width:30px;
-    height: 3vw !important;
-    width: 3vw !important;
+    height: 2vw !important;
+    width: 2vw !important;
     background-color: rgb(194, 32, 32);
     opacity: .6;
 }
@@ -158,6 +198,7 @@ nav{
     position: absolute;
     align-items: center;
     transition: 0.4s;
+    font-size: 30px;
 }
 
 .next-button{
@@ -179,11 +220,11 @@ nav{
 
 /*Below sets button decorations*/
 #homepage-carousel button, #judo-carousel button{
-    background-color:rgb(194, 32, 32);
+    background-color: transparent;
 }
 
 #homepage-carousel button:hover, #judo-carousel button:hover{
-    background-color:rgb(192, 102, 102);
+    background-color:rgb(197, 89, 89);
 }
 
 #homepage-carousel .carousel-pic, #judo-carousel .carousel-pic{
@@ -211,25 +252,13 @@ nav{
     cursor: pointer;
     width: 100%;
     text-align: center;
-    padding-left: 50px;
     transition: 0.4s;
     font-size: 20px;
     border-bottom: 2px black solid;
-}
-
-/*Sets basic accordion btn content*/
-.accordion-btn:after {
-    content: '\21E9';
-}
-
-/*Sets accordion button content when it is open*/
-.active:after {
-    content: "\21E7";
+    height: 50px;
 }
 
 .acc-dropd {
-    margin-left: 10px;
-    margin-right: 10px;
     margin-bottom: 0px;
     padding-bottom: 10px;
     padding-left: 50px;
@@ -244,17 +273,15 @@ nav{
     display: flex;
     flex-direction: row;
     background-color: #ffffff;
-}
+    text-align: justify;
 
-.club-goal h3 {
-    font-size: 30px;
 }
-
 /*Sets goal positioning*/
 .club-goal{
-    max-width: 60%;
-    padding: 50px;
-    margin-top: 50px;
+    max-width: 100%;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
     margin-left: 50px;
 }
 
@@ -264,17 +291,32 @@ nav{
 
 /*Sets aside positioning*/
 .updates-dates-and-times{
+    width: 40%;
     padding: 50px;
     background-color: rgb(251, 239, 239);
 }
 
-.updates-dates-and-times h3 {
+.updates-dates-and-times .bold{
+    text-align: center;
     font-size: 20px;
 }
 
-.updates-dates-and-times p, .updates-dates-and-times h3 {
-    max-width: 60%;
-    margin-left: 50px;
+.updates-dates-and-times h3 {
+    padding: 30px;
+}
+
+.updates-dates-and-times aside {
+    height: fit-content;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.updates-dates-and-times h3{
+    text-align: center;
 }
 /* INDEX PAGE */
 
@@ -324,26 +366,17 @@ nav{
     font-size: 30px;
 }
 
-.faqs {
-    background-color: rgb(236, 232, 232);
-}
 /* ABOUT JUDO PAGE */
 
 /* CONTACT PAGE */
 /*Sets PDF decoration and positioning*/
-iframe {
-    width: 40vw;
-    height: 100vh;
-    margin-left: 10px;
-}
-
 .joining {
     margin-bottom: 50px;
     font-size: 30px;
 }
 
 .how-to-join {
-    width: 60%;
+    width: 100%;
     padding-left:50px;
     padding-top: 100px;
     padding-right: 50px;
@@ -361,32 +394,34 @@ iframe {
 .contact-main-box {
     display:flex;
     flex-direction: row;
+    min-height: 100vh;
 }
 
 
 
 footer{
-    color: #000000;
-    background-color:rgb(194, 32, 32);
-    padding: 1em;
-
+    color: white;
+    background-color:black !important;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    position: relative;
+    bottom: 0px;
 }
 
 footer p {
     margin-right: 30px;
 }
 
-.active:after {
-    content: "\21E7";
-}
-
 p{
     font-size: medium;
 }
+
+@media (max-width: 1000px){
+    .right {
+        display: none;
+    }
+}
+
 
 @media (max-width: 600px){
 
@@ -448,8 +483,7 @@ p{
     }
 
     .dropdown p {
-        color: rgb(255, 255, 255);
-        background-color: rgb(194, 32, 32);
+        background-color: rgb(197, 89, 89);
         border-bottom: black 2px solid;
         margin: 0;
         width: 100%;
@@ -514,6 +548,7 @@ p{
     .accordion-btn {
         font-size: 14px;
     }
+
 }
 
 /*Removes transitions on user request*/
